@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "AMBVA_24_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "St Peters Church Chesterfield Road", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:30-13:30", "Tue": "09:30-13:30", "Wed": "09:30-13:30", "Thu": "09:30-13:30", "Fri": "09:30-13:30", "Sat": "Closed", "Sun": "Closed", "index_right": 26, "park_offical_id": "AMBVA_24" }, "geometry": { "type": "Point", "coordinates": [ -1.4781758, 53.0251195 ] } },
+{ "type": "Feature", "properties": { "name": "Strutt Street", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 26, "park_offical_id": "AMBVA_24" }, "geometry": { "type": "Point", "coordinates": [ -1.480858, 53.0222847 ] } },
+{ "type": "Feature", "properties": { "name": "De Bradelei Stores Chapel Street", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:30-17:30", "Tue": "09:30-17:30", "Wed": "09:30-17:30", "Thu": "09:30-17:30", "Fri": "09:30-17:30", "Sat": "Closed", "Sun": "Closed", "index_right": 26, "park_offical_id": "AMBVA_24" }, "geometry": { "type": "Point", "coordinates": [ -1.484795809, 53.021779426 ] } },
+{ "type": "Feature", "properties": { "name": "Belper River Gardens", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 26, "park_offical_id": "AMBVA_24" }, "geometry": { "type": "Point", "coordinates": [ -1.485385895, 53.029310023 ] } },
+{ "type": "Feature", "properties": { "name": "Morrisons Superstore", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 26, "park_offical_id": "AMBVA_24" }, "geometry": { "type": "Point", "coordinates": [ -1.486265659, 53.021135683 ] } }
+]
+}

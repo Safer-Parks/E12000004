@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DERBY_68_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Intu Centre Lower Level", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 83, "park_offical_id": "DERBY_68" }, "geometry": { "type": "Point", "coordinates": [ -1.472597122, 52.920259328 ] } },
+{ "type": "Feature", "properties": { "name": "Derby Station Platform 1", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 83, "park_offical_id": "DERBY_68" }, "geometry": { "type": "Point", "coordinates": [ -1.463073262, 52.91618036 ] } },
+{ "type": "Feature", "properties": { "name": "Intu Centre Upper  Lower Levels", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 83, "park_offical_id": "DERBY_68" }, "geometry": { "type": "Point", "coordinates": [ -1.471958756, 52.918816786 ] } },
+{ "type": "Feature", "properties": { "name": "Derby Station Platforms 2  3", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 83, "park_offical_id": "DERBY_68" }, "geometry": { "type": "Point", "coordinates": [ -1.462925076, 52.916625387 ] } },
+{ "type": "Feature", "properties": { "name": "Arboretum", "payment_info": "Cost unknown", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "13:00-19:00", "Tue": "13:00-19:00", "Wed": "13:00-19:00", "Thu": "13:00-19:00", "Fri": "13:00-19:00", "Sat": "Closed", "Sun": "Closed", "index_right": 83, "park_offical_id": "DERBY_68" }, "geometry": { "type": "Point", "coordinates": [ -1.474993468, 52.91335565 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HINBO_19_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Station Road Toilets", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 11, "park_offical_id": "HINBO_19" }, "geometry": { "type": "Point", "coordinates": [ -1.37270566, 52.53980768 ] } },
+{ "type": "Feature", "properties": { "name": "Britannia centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 11, "park_offical_id": "HINBO_19" }, "geometry": { "type": "Point", "coordinates": [ -1.371772885, 52.541894754 ] } },
+{ "type": "Feature", "properties": { "name": "Aldi public ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 11, "park_offical_id": "HINBO_19" }, "geometry": { "type": "Point", "coordinates": [ -1.370109068, 52.543750455 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 11, "park_offical_id": "HINBO_19" }, "geometry": { "type": "Point", "coordinates": [ -1.376076514, 52.538442285 ] } }
+]
+}

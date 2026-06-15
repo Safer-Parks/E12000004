@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BLABY_35_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Council Offices Desford Road", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 37, "park_offical_id": "BLABY_35" }, "geometry": { "type": "Point", "coordinates": [ -1.205024727, 52.573120967 ] } },
+{ "type": "Feature", "properties": { "name": "Narborough Railway Station", "payment_info": "No Fee", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 37, "park_offical_id": "BLABY_35" }, "geometry": { "type": "Point", "coordinates": [ -1.203174591, 52.571159747 ] } },
+{ "type": "Feature", "properties": { "name": "Narborough train station ", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 37, "park_offical_id": "BLABY_35" }, "geometry": { "type": "Point", "coordinates": [ -1.202820539, 52.571342327 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 37, "park_offical_id": "BLABY_35" }, "geometry": { "type": "Point", "coordinates": [ -1.208358, 52.5737046 ] } }
+]
+}

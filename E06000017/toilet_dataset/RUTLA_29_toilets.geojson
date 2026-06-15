@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "RUTLA_29_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rutland Country Library Catmos Street Oakham", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:30-17:00", "Tue": "09:30-17:00", "Wed": "09:30-17:00", "Thu": "09:30-17:00", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 20, "park_offical_id": "RUTLA_29" }, "geometry": { "type": "Point", "coordinates": [ -0.7253258, 52.668403 ] } },
+{ "type": "Feature", "properties": { "name": "Rutland County Council Catmos Oakham", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-16:45", "Tue": "08:30-16:45", "Wed": "08:30-16:45", "Thu": "08:30-16:45", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 20, "park_offical_id": "RUTLA_29" }, "geometry": { "type": "Point", "coordinates": [ -0.7248488, 52.6680668 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 20, "park_offical_id": "RUTLA_29" }, "geometry": { "type": "Point", "coordinates": [ -0.7292256, 52.6714139 ] } },
+{ "type": "Feature", "properties": { "name": "Rutland County Museum Catmos Street Oakham", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "10:00-16:00", "Tue": "10:00-16:00", "Wed": "10:00-16:00", "Thu": "10:00-16:00", "Fri": "10:00-16:00", "Sat": "10:00-16:00", "Sun": "10:00-16:00", "index_right": 20, "park_offical_id": "RUTLA_29" }, "geometry": { "type": "Point", "coordinates": [ -0.7254502, 52.6677616 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 20, "park_offical_id": "RUTLA_29" }, "geometry": { "type": "Point", "coordinates": [ -0.7325167, 52.669896 ] } }
+]
+}

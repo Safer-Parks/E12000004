@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DERBY_19_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 29, "park_offical_id": "DERBY_19" }, "geometry": { "type": "Point", "coordinates": [ -1.5044143, 52.9377513 ] } },
+{ "type": "Feature", "properties": { "name": "Mundy Play Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 29, "park_offical_id": "DERBY_19" }, "geometry": { "type": "Point", "coordinates": [ -1.510468602, 52.937688484 ] } },
+{ "type": "Feature", "properties": { "name": "Park Farm Shopping Centre", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 29, "park_offical_id": "DERBY_19" }, "geometry": { "type": "Point", "coordinates": [ -1.496565342, 52.944182031 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 29, "park_offical_id": "DERBY_19" }, "geometry": { "type": "Point", "coordinates": [ -1.505019665, 52.935024837 ] } }
+]
+}

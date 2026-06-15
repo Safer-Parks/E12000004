@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HINBO_78_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco Superstore Hinckley", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "06:00-00:00", "Tue": "06:00-00:00", "Wed": "06:00-00:00", "Thu": "06:00-00:00", "Fri": "06:00-00:00", "Sat": "06:00-00:00", "Sun": "10:00-16:00", "index_right": 58, "park_offical_id": "HINBO_78" }, "geometry": { "type": "Point", "coordinates": [ -1.37334466, 52.535454032 ] } },
+{ "type": "Feature", "properties": { "name": "Lidl", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 58, "park_offical_id": "HINBO_78" }, "geometry": { "type": "Point", "coordinates": [ -1.378516495, 52.539602189 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 58, "park_offical_id": "HINBO_78" }, "geometry": { "type": "Point", "coordinates": [ -1.376076514, 52.538442285 ] } }
+]
+}

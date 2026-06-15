@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BROXT_62_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 43, "park_offical_id": "BROXT_62" }, "geometry": { "type": "Point", "coordinates": [ -1.21334408, 52.926396069 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 43, "park_offical_id": "BROXT_62" }, "geometry": { "type": "Point", "coordinates": [ -1.2075741, 52.9208824 ] } },
+{ "type": "Feature", "properties": { "name": "Tram Stop Toilet", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 43, "park_offical_id": "BROXT_62" }, "geometry": { "type": "Point", "coordinates": [ -1.215778232, 52.926021576 ] } }
+]
+}

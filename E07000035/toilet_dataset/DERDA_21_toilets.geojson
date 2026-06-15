@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DERDA_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Matlock  Hall Leys Park", "payment_info": "20p", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-17:30", "Tue": "08:30-17:30", "Wed": "08:30-17:30", "Thu": "08:30-17:30", "Fri": "08:30-17:30", "Sat": "08:30-17:30", "Sun": "08:30-17:30", "index_right": 24, "park_offical_id": "DERDA_21" }, "geometry": { "type": "Point", "coordinates": [ -1.5538573, 53.1380273 ] } },
+{ "type": "Feature", "properties": { "name": "Matlock Bus Station", "payment_info": "020", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-17:30", "Tue": "08:30-17:30", "Wed": "08:30-17:30", "Thu": "08:30-17:30", "Fri": "08:30-17:30", "Sat": "08:30-17:30", "Sun": "08:30-17:30", "index_right": 24, "park_offical_id": "DERDA_21" }, "geometry": { "type": "Point", "coordinates": [ -1.557911, 53.138231 ] } }
+]
+}

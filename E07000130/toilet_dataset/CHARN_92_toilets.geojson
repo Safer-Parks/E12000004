@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CHARN_92_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 97, "park_offical_id": "CHARN_92" }, "geometry": { "type": "Point", "coordinates": [ -1.209214926, 52.769360713 ] } },
+{ "type": "Feature", "properties": { "name": "Market Place", "payment_info": "020", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 97, "park_offical_id": "CHARN_92" }, "geometry": { "type": "Point", "coordinates": [ -1.207058028, 52.771847134 ] } },
+{ "type": "Feature", "properties": { "name": "Queens Park", "payment_info": "020", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 97, "park_offical_id": "CHARN_92" }, "geometry": { "type": "Point", "coordinates": [ -1.208960649, 52.770736117 ] } },
+{ "type": "Feature", "properties": { "name": "Market Place Loughborough LE11 3EQ", "payment_info": "20p no change", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "08:30-17:30", "Fri": "09:00-17:00", "Sat": "08:30-17:30", "Sun": "09:00-16:30", "index_right": 97, "park_offical_id": "CHARN_92" }, "geometry": { "type": "Point", "coordinates": [ -1.2057559, 52.7714314 ] } },
+{ "type": "Feature", "properties": { "name": "The Wheeltapper", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 97, "park_offical_id": "CHARN_92" }, "geometry": { "type": "Point", "coordinates": [ -1.205666363, 52.769680404 ] } }
+]
+}

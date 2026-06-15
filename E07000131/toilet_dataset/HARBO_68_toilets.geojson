@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HARBO_68_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "CoOp", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:30-21:00", "Tue": "08:30-21:00", "Wed": "08:30-21:00", "Thu": "08:30-21:00", "Fri": "08:30-21:00", "Sat": "08:30-21:00", "Sun": "09:00-16:00", "index_right": 53, "park_offical_id": "HARBO_68" }, "geometry": { "type": "Point", "coordinates": [ -1.230382919, 52.534158595 ] } },
+{ "type": "Feature", "properties": { "name": "Folesworth road recreation ground broughton astley leicester", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "06:30-17:00", "Tue": "06:30-17:00", "Wed": "06:30-17:00", "Thu": "06:30-17:00", "Fri": "06:30-17:00", "Sat": "06:30-17:00", "Sun": "06:30-17:00", "index_right": 53, "park_offical_id": "HARBO_68" }, "geometry": { "type": "Point", "coordinates": [ -1.228875518, 52.529154732 ] } }
+]
+}

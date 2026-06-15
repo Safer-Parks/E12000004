@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HARBO_18_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Church Street Carpark", "payment_info": "40p", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 13, "park_offical_id": "HARBO_18" }, "geometry": { "type": "Point", "coordinates": [ -1.201943701, 52.455987105 ] } }
+]
+}

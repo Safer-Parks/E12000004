@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HINBO_15_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Church Street", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "07:30-18:30", "Tue": "07:30-18:30", "Wed": "07:30-18:30", "Thu": "07:30-18:30", "Fri": "07:30-18:30", "Sat": "07:30-18:30", "Sun": "Closed", "index_right": 7, "park_offical_id": "HINBO_15" }, "geometry": { "type": "Point", "coordinates": [ -1.34819948, 52.52821844 ] } }
+]
+}

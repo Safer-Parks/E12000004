@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_17_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Victoria Square ", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "BASSE_17" }, "geometry": { "type": "Point", "coordinates": [ -1.1234247, 53.3079074 ] } },
+{ "type": "Feature", "properties": { "name": "73 Bridge Street", "payment_info": "20p", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "08:00-17:00", "Tue": "08:00-17:00", "Wed": "08:00-17:00", "Thu": "08:00-17:00", "Fri": "08:00-17:00", "Sat": "08:00-17:00", "Sun": "08:00-17:00", "index_right": 14, "park_offical_id": "BASSE_17" }, "geometry": { "type": "Point", "coordinates": [ -1.12445469, 53.303161778 ] } },
+{ "type": "Feature", "properties": { "name": "Bus Station", "payment_info": "20p", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "BASSE_17" }, "geometry": { "type": "Point", "coordinates": [ -1.121887549, 53.304000525 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHEST_37_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Staveley Market Place", "payment_info": "Cost unknown", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "07:15-17:30", "Tue": "07:15-17:30", "Wed": "07:15-17:30", "Thu": "07:15-17:30", "Fri": "07:15-17:30", "Sat": "07:15-17:30", "Sun": "07:15-17:30", "index_right": 30, "park_offical_id": "CHEST_37" }, "geometry": { "type": "Point", "coordinates": [ -1.353756739, 53.266977027 ] } },
+{ "type": "Feature", "properties": { "name": "Morrisons", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 30, "park_offical_id": "CHEST_37" }, "geometry": { "type": "Point", "coordinates": [ -1.353967536, 53.267913017 ] } }
+]
+}

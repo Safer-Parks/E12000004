@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RUSHC_40_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-17:30", "Tue": "08:00-17:30", "Wed": "08:00-17:30", "Thu": "08:00-17:30", "Fri": "08:00-17:30", "Sat": "08:00-17:30", "Sun": "08:00-17:30", "index_right": 66, "park_offical_id": "RUSHC_40" }, "geometry": { "type": "Point", "coordinates": [ -0.954694748, 52.952071989 ] } }
+]
+}

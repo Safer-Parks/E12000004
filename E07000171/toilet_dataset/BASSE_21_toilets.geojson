@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Harworth Council", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 35, "park_offical_id": "BASSE_21" }, "geometry": { "type": "Point", "coordinates": [ -1.061130166, 53.41670525 ] } }
+]
+}

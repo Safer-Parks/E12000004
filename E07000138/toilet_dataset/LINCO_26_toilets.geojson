@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "LINCO_26_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Disabled", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 24, "park_offical_id": "LINCO_26" }, "geometry": { "type": "Point", "coordinates": [ -0.537029083, 53.227472532 ] } },
+{ "type": "Feature", "properties": { "name": "Castle Square", "payment_info": "020", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 24, "park_offical_id": "LINCO_26" }, "geometry": { "type": "Point", "coordinates": [ -0.539464653, 53.234294069 ] } },
+{ "type": "Feature", "properties": { "name": "Waterside Centre Toilets", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 24, "park_offical_id": "LINCO_26" }, "geometry": { "type": "Point", "coordinates": [ -0.538754666, 53.228590271 ] } },
+{ "type": "Feature", "properties": { "name": "Lincoln Central Library", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 24, "park_offical_id": "LINCO_26" }, "geometry": { "type": "Point", "coordinates": [ -0.537335146, 53.229550043 ] } },
+{ "type": "Feature", "properties": { "name": "Lincoln Cathedral Visitor Centre", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 24, "park_offical_id": "LINCO_26" }, "geometry": { "type": "Point", "coordinates": [ -0.535977914, 53.234990156 ] } }
+]
+}

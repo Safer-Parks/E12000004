@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHEST_24_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "High StreetBrimington Opp Three Horse Shoes", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:30", "Tue": "09:00-17:30", "Wed": "09:00-17:30", "Thu": "09:00-17:30", "Fri": "09:00-17:30", "Sat": "09:00-17:30", "Sun": "09:00-17:30", "index_right": 16, "park_offical_id": "CHEST_24" }, "geometry": { "type": "Point", "coordinates": [ -1.393396854, 53.25765459 ] } }
+]
+}

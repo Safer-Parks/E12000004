@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RUTLA_19_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Uppingham Market Place", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "07:30-17:30", "Tue": "07:30-17:30", "Wed": "07:30-17:30", "Thu": "07:30-17:30", "Fri": "07:30-17:30", "Sat": "07:30-17:30", "Sun": "07:30-17:30", "index_right": 11, "park_offical_id": "RUTLA_19" }, "geometry": { "type": "Point", "coordinates": [ -0.722495914, 52.587740894 ] } }
+]
+}

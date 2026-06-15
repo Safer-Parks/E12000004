@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "AMBVA_50_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Genesis Centre King Street", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 55, "park_offical_id": "AMBVA_50" }, "geometry": { "type": "Point", "coordinates": [ -1.390977502, 53.096642935 ] } },
+{ "type": "Feature", "properties": { "name": "Indoor Market Hall Institute Lane", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:30-16:30", "Tue": "08:30-16:30", "Wed": "08:30-16:30", "Thu": "08:30-16:30", "Fri": "08:30-16:30", "Sat": "08:30-16:30", "Sun": "08:30-16:30", "index_right": 55, "park_offical_id": "AMBVA_50" }, "geometry": { "type": "Point", "coordinates": [ -1.388681531, 53.096591396 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 55, "park_offical_id": "AMBVA_50" }, "geometry": { "type": "Point", "coordinates": [ -1.38951838, 53.095157956 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 55, "park_offical_id": "AMBVA_50" }, "geometry": { "type": "Point", "coordinates": [ -1.3873217, 53.095891 ] } }
+]
+}

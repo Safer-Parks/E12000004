@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORE5_11_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Dronfield Civic Hall", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "NORE5_11" }, "geometry": { "type": "Point", "coordinates": [ -1.475708485, 53.301607738 ] } },
+{ "type": "Feature", "properties": { "name": "Dronfield The Forge shopping centre ", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "NORE5_11" }, "geometry": { "type": "Point", "coordinates": [ -1.470751762, 53.301287158 ] } },
+{ "type": "Feature", "properties": { "name": "Dronfield Sainsburys", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "NORE5_11" }, "geometry": { "type": "Point", "coordinates": [ -1.476202011, 53.30373633 ] } },
+{ "type": "Feature", "properties": { "name": "Dronfield The Barn", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "NORE5_11" }, "geometry": { "type": "Point", "coordinates": [ -1.474399567, 53.302377121 ] } }
+]
+}

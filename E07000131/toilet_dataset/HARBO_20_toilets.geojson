@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HARBO_20_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "CoOp", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:30-21:00", "Tue": "08:30-21:00", "Wed": "08:30-21:00", "Thu": "08:30-21:00", "Fri": "08:30-21:00", "Sat": "08:30-21:00", "Sun": "09:00-16:00", "index_right": 16, "park_offical_id": "HARBO_20" }, "geometry": { "type": "Point", "coordinates": [ -1.230382919, 52.534158595 ] } }
+]
+}

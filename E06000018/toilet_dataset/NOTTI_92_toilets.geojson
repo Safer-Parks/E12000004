@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NOTTI_92_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 180, "park_offical_id": "NOTTI_92" }, "geometry": { "type": "Point", "coordinates": [ -1.1772594, 52.9488133 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 180, "park_offical_id": "NOTTI_92" }, "geometry": { "type": "Point", "coordinates": [ -1.183613771, 52.951883643 ] } },
+{ "type": "Feature", "properties": { "name": "The Plough Inn", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 180, "park_offical_id": "NOTTI_92" }, "geometry": { "type": "Point", "coordinates": [ -1.180391908, 52.958291468 ] } }
+]
+}
