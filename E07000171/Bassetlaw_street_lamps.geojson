@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "Bassetlaw_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4031735256, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.8453869, 53.4259726 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558258, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9324212, 53.2513078 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558259, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9319779, 53.2516133 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558260, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9312084, 53.2529324 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558261, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.93176, 53.2522064 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558262, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9303228, 53.2532291 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558263, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9299856, 53.2540946 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558266, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9329534, 53.2509307 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558267, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9336505, 53.250379 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558268, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9351309, 53.2491687 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558269, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9342959, 53.2498186 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558271, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9376188, 53.2466891 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558272, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9359181, 53.248282 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9182558274, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9365904, 53.2475298 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12803280258, "authority": "Bassetlaw", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9426483, 53.3233419 ] } }
+]
+}

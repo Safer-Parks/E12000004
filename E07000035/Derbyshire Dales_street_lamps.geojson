@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Derbyshire Dales_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 2462720708, "authority": "Derbyshire Dales", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.6504943, 53.3307275 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 2949180806, "authority": "Derbyshire Dales", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.5719644, 53.0827559 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8560417788, "authority": "Derbyshire Dales", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.7690322, 53.2797972 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11951903017, "authority": "Derbyshire Dales", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.8106824, 53.1411818 ] } }
+]
+}

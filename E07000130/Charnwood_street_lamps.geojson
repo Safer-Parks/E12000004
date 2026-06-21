@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "Charnwood_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9414068924, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2125749, 52.7474562 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12770462032, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2042285, 52.7748833 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13274028931, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1321088, 52.6966311 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13361376474, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2366791, 52.7801961 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13614695291, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1283061, 52.706723 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13614738153, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1839323, 52.7517517 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13614748838, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2000923, 52.7672054 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13614757932, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.128543, 52.7061064 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13614768108, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1839814, 52.7507721 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13614864986, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1261728, 52.6888593 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13614866304, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1261839, 52.6895373 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13618133024, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1262356, 52.6929559 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13618149925, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1259124, 52.6929838 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13645132560, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1290376, 52.6658159 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13645186818, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1292319, 52.66678 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13662014712, "authority": "Charnwood", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1842915, 52.751377 ] } }
+]
+}

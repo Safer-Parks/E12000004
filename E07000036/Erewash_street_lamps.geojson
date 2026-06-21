@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Erewash_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 4044332926, "authority": "Erewash", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.3094228, 52.9709954 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13647953401, "authority": "Erewash", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2851232, 52.8858424 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13737493416, "authority": "Erewash", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.3090315, 52.9783249 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13789875429, "authority": "Erewash", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.307288, 52.9614354 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13805768397, "authority": "Erewash", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.3040787, 52.9660399 ] } }
+]
+}

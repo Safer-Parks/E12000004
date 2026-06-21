@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Amber Valley_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9334628040, "authority": "Amber Valley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.4928899, 53.035165 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9381700000, "authority": "Amber Valley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.4930906, 53.0322224 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9405006616, "authority": "Amber Valley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.5022631, 53.0409719 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9405008278, "authority": "Amber Valley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.5026992, 53.0409865 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9405008336, "authority": "Amber Valley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.5036382, 53.0411802 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9405107580, "authority": "Amber Valley", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.5038334, 53.0407122 ] } }
+]
+}
