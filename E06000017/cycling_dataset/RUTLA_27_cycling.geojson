@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "RUTLA_27_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7459599,52.6798362],[-0.7458601,52.6799105],[-0.7459595,52.6801479],[-0.7462577,52.6807929],[-0.7465451,52.6814638],[-0.7468828,52.6819856],[-0.7472209,52.6823105],[-0.747946,52.682734],[-0.7482371,52.6829002],[-0.7483854,52.6830728],[-0.7484349,52.6832597],[-0.7483933,52.6834671],[-0.7482675,52.6837209],[-0.7482159,52.6837768],[-0.7482703,52.6838116],[-0.7483124,52.6838375],[-0.7483336,52.6838773],[-0.7483623,52.6839229],[-0.748556,52.6838876],[-0.7486627,52.6838907],[-0.7487633,52.6839192],[-0.7488794,52.6839801],[-0.7489843,52.6840491],[-0.7490659,52.6841202],[-0.7492501,52.6844329],[-0.7495111,52.6849255],[-0.7498433,52.6855403],[-0.7503237,52.6862259],[-0.7507824,52.6868203],[-0.7511897,52.687416],[-0.75168,52.6880296],[-0.7520596,52.6884862]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7356241,52.6757384],[-0.7354045,52.6757436],[-0.7347388,52.6757167],[-0.7341445,52.6756733]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7428388,52.6705603],[-0.7426763,52.6705524],[-0.742717,52.6708744]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7271787,52.6708009],[-0.7271089,52.6708253],[-0.7260786,52.6711856]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.727222,52.6706507],[-0.7271799,52.6706413],[-0.726781,52.6705523]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7426621,52.6696773],[-0.742394,52.6695244],[-0.7421221,52.6695244]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7372358,52.6713725],[-0.7372409,52.6711713]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.736912,52.673333],[-0.7369645,52.6733851],[-0.7369174,52.6734202],[-0.7368208,52.6734422],[-0.7367927,52.6734747],[-0.7367953,52.6734983],[-0.7367699,52.6735146]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7325506,52.6697908],[-0.7326567,52.6695998]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7326567,52.6695998],[-0.7328815,52.6695821]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7429601,52.6702038],[-0.7429951,52.6705759]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7449295,52.6702379],[-0.7448738,52.6700449],[-0.7448286,52.669888],[-0.7447638,52.6696405]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7448738,52.6700449],[-0.7443445,52.6700681]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7412487,52.6732303],[-0.7412463,52.6732154],[-0.7419515,52.6731362]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7355427,52.668021],[-0.7349747,52.6679943]]]}}
+]
+}

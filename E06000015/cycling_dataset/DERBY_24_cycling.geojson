@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DERBY_24_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5262406,52.9350101],[-1.5262156,52.9350855],[-1.5261142,52.9353911],[-1.5260146,52.9355867],[-1.5259156,52.9356566],[-1.5256683,52.9357854],[-1.5256156,52.9358094],[-1.5255414,52.9358319],[-1.5254319,52.9358535],[-1.5253615,52.9358628],[-1.5251966,52.9358704]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5197143,52.9332572],[-1.5197795,52.9333426],[-1.5198243,52.9334149],[-1.5198435,52.9334612],[-1.5199156,52.9334564]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5148266,52.9343419],[-1.5147021,52.9341553],[-1.5146071,52.9340252]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5248778,52.9358172],[-1.5246332,52.9358038],[-1.5245496,52.9358005],[-1.5242819,52.9359471]]]}}
+]
+}

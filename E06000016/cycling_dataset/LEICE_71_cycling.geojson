@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LEICE_71_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Evington Drive","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.0962934,52.6252864],[-1.09582,52.6253069],[-1.0951894,52.6253164],[-1.0944699,52.6253227],[-1.0937265,52.6253383],[-1.0927655,52.6253882]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Evington Drive","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1007365,52.624611],[-1.0998923,52.6248024],[-1.099301,52.6249215],[-1.0986893,52.6250264],[-1.0983513,52.6250778],[-1.0982558,52.6250896],[-1.0975803,52.6251739],[-1.0971089,52.6252234]]]}}
+]
+}
