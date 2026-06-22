@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUKE_2301_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cafe 35", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Closed", "Tue": "09:30-14:00", "Wed": "09:30-14:00", "Thu": "09:30-14:00", "Fri": "09:30-14:00", "Sat": "09:00-14:00", "Sun": "Closed", "index_right": 113, "park_offical_id": "SOUKE_2301" }, "geometry": { "type": "Point", "coordinates": [ -0.37714541, 52.769717616 ] } },
+{ "type": "Feature", "properties": { "name": "3 Abbey Road Bourne Corn Exchange", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 113, "park_offical_id": "SOUKE_2301" }, "geometry": { "type": "Point", "coordinates": [ -0.3760229, 52.7677862 ] } }
+]
+}
