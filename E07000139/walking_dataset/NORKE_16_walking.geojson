@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORKE_16_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6408602,53.1772958],[-0.6397283,53.1769422],[-0.635941,53.1760451],[-0.6329531,53.1752028],[-0.6297045,53.1741661],[-0.6296006,53.1740813],[-0.6294996,53.1740053],[-0.6294176,53.1739417],[-0.6293222,53.1738628]]]}}
+]
+}

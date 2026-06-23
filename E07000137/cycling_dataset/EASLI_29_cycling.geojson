@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "EASLI_29_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3472569,53.1404539],[0.3473407,53.1402434],[0.3474373,53.139883],[0.34745,53.1396399],[0.3474189,53.1393973],[0.3474178,53.1393889],[0.3473112,53.1390849],[0.3471711,53.1388161],[0.3470262,53.138586],[0.3467318,53.1382064],[0.3463446,53.1377347],[0.3462403,53.1376061],[0.3461818,53.1375772],[0.3457706,53.1376143]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3452162,53.1354598],[0.3450114,53.1354065],[0.3447593,53.1353808],[0.3446252,53.1353904],[0.344416,53.1354612],[0.3443409,53.1354741],[0.344255,53.1354612],[0.3441585,53.1355159],[0.3439922,53.1355674],[0.3438849,53.1356125],[0.343799,53.1356575],[0.34374,53.1357026],[0.3435791,53.1357251],[0.3432261,53.135781]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3472125,53.1414029],[0.3472676,53.1414363],[0.3473568,53.1414903],[0.3475016,53.1415305],[0.3494866,53.1418035],[0.3498325,53.1417058]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3439276,53.1358507],[0.3432782,53.13584],[0.3432261,53.135781]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3466474,53.1513641],[0.3466097,53.1512153],[0.3464423,53.1505551]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3454728,53.1429833],[0.3452281,53.1429724],[0.3450485,53.1429125],[0.345058,53.1428725]]]}}
+]
+}

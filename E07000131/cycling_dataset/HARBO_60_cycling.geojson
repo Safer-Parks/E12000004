@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "HARBO_60_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1801115,52.4662458],[-1.17938,52.466485],[-1.1791582,52.4666947],[-1.1790422,52.4667242],[-1.1791513,52.4668678],[-1.1793468,52.4670462],[-1.1801828,52.467809],[-1.1809905,52.4681215]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"X44","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1809905,52.4681215],[-1.1810245,52.4662649],[-1.1809685,52.4654569],[-1.177027,52.4647741],[-1.1769393,52.4647481],[-1.1763732,52.4645806],[-1.1754766,52.4640912],[-1.1752711,52.4636929],[-1.1750656,52.4631124],[-1.1745986,52.4628393],[-1.1730482,52.4620426],[-1.1726372,52.461832],[-1.1711241,52.4601134],[-1.1711055,52.4599427],[-1.1712175,52.4596354],[-1.171423,52.4593963],[-1.1716098,52.4586451],[-1.1717779,52.4578028],[-1.17189,52.4573247],[-1.1721142,52.456619],[-1.1705824,52.4565735],[-1.1692748,52.4548432],[-1.1693402,52.4546383],[-1.1680078,52.4529877],[-1.1679205,52.4528796],[-1.1678356,52.4527493]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1889809,52.4663534],[-1.1890937,52.466384]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1890937,52.466384],[-1.189152,52.466458]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1887527,52.466734],[-1.1887084,52.4668677],[-1.188706,52.46699],[-1.1886911,52.4670284],[-1.1886827,52.4670498]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1879473,52.4684837],[-1.1882933,52.4679641],[-1.1886607,52.4673464],[-1.1887519,52.4671814],[-1.1887654,52.4671209],[-1.1887519,52.4670784],[-1.1886911,52.4670284]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"X44","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1809905,52.4681215],[-1.1822437,52.4686064],[-1.1843876,52.4688329]]]}}
+]
+}

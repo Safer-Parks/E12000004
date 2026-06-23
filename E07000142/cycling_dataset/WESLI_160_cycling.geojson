@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_160_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Westmoor Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7358326,53.2754167],[-0.7354217,53.2737886],[-0.7353609,53.2736574],[-0.7352349,53.2735513],[-0.7334921,53.2728537],[-0.7334632,53.2727486]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7402728,53.2703593],[-0.7419527,53.2714812]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7333411,53.270921],[-0.7341099,53.2708724],[-0.7378113,53.2708483],[-0.7385543,53.2707569],[-0.7401529,53.2704016],[-0.7402039,53.2703876],[-0.7402728,53.2703593],[-0.7406062,53.2702227],[-0.7414296,53.2702356],[-0.7430121,53.2705452],[-0.7434651,53.2706737]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7369401,53.2795583],[-0.7378918,53.2794869],[-0.7383961,53.2771999],[-0.7388105,53.2752304],[-0.7388034,53.2751232]]]}}
+]
+}

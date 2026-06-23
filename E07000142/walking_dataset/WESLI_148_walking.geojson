@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_148_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7402728,53.2703593],[-0.7419527,53.2714812]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7333411,53.270921],[-0.7341099,53.2708724],[-0.7378113,53.2708483],[-0.7385543,53.2707569],[-0.7401529,53.2704016],[-0.7402039,53.2703876],[-0.7402728,53.2703593],[-0.7406062,53.2702227],[-0.7414296,53.2702356],[-0.7430121,53.2705452],[-0.7434651,53.2706737]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7449121,53.2739166],[-0.7453827,53.2739198]]]}}
+]
+}

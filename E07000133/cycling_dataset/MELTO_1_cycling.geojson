@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MELTO_1_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9021489,52.7568211],[-0.9023635,52.7567887],[-0.9024386,52.756744],[-0.9024279,52.756671],[-0.9025194,52.7566591],[-0.9026089,52.7566491],[-0.9026733,52.756731],[-0.9034994,52.7565882],[-0.9043859,52.7564315],[-0.9045644,52.7564561]]]}}
+]
+}

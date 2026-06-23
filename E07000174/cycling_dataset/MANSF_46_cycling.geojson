@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "MANSF_46_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Timberland Trail","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1885822,53.137207],[-1.1885039,53.1372179],[-1.1883561,53.1372407],[-1.1879921,53.1372296],[-1.1876299,53.1372864],[-1.1872364,53.1373856],[-1.1865685,53.1374557]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1865685,53.1374557],[-1.1864706,53.1374844],[-1.1862989,53.137566],[-1.185867,53.137561],[-1.1854937,53.1375635]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1896113,53.1362168],[-1.1896567,53.1362604],[-1.1899743,53.136429],[-1.1904887,53.1367021]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1906295,53.1351692],[-1.1913975,53.1348347]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1883087,53.1297794],[-1.1880877,53.1298768],[-1.1875459,53.1299798],[-1.1868834,53.1300957],[-1.1863523,53.13016],[-1.18584,53.1302292],[-1.1854706,53.1302719]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1854937,53.1375635],[-1.1850817,53.1375978],[-1.1848641,53.1376129],[-1.1846555,53.1376329],[-1.1843439,53.1376757]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1843439,53.1376757],[-1.1841937,53.1377239],[-1.1836169,53.1379291],[-1.1833044,53.1380539],[-1.1832414,53.1379613],[-1.1832168,53.1378038],[-1.1831569,53.1377811],[-1.1828331,53.1377719]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1940283,53.1365288],[-1.1940345,53.1365557],[-1.1940676,53.1366608]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1946589,53.1366424],[-1.1946366,53.1365826],[-1.1940953,53.1365485],[-1.1940345,53.1365557]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1888256,53.137022],[-1.1890967,53.1369824],[-1.1899743,53.136429]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1905783,53.1358233],[-1.1907165,53.135913],[-1.1918082,53.1365142]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Berry Hill Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1854454,53.1302042],[-1.1860885,53.1301178],[-1.1873759,53.1299118],[-1.1877111,53.1298655],[-1.1883087,53.1297794]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Berry Hill Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1883087,53.1297794],[-1.188518,53.1297497],[-1.189327,53.1297007],[-1.189933,53.1296809],[-1.1911765,53.129687],[-1.1915815,53.1297044],[-1.1919658,53.1297581],[-1.192369,53.1298352]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Berry Hill Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1850099,53.1303241],[-1.1854454,53.1302042]]]}}
+]
+}

@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFI_13_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2374076,53.1209638],[-1.2373973,53.1209026],[-1.2373884,53.1207889],[-1.2378632,53.1205812],[-1.2381089,53.1204681],[-1.2386437,53.1201386],[-1.2387109,53.1201025],[-1.238687,53.1200673]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2412299,53.1174207],[-1.2414193,53.1173876],[-1.241646,53.1170656],[-1.2417961,53.1170516]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2362913,53.1192502],[-1.2356693,53.1188059]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2358075,53.1173062],[-1.2358771,53.1173897],[-1.2359103,53.1174293],[-1.235923,53.117476],[-1.2359185,53.1175191],[-1.2358224,53.1177058],[-1.2357716,53.117812],[-1.2358962,53.1179384],[-1.235956,53.1180421],[-1.2360129,53.1182241],[-1.2360115,53.1183263],[-1.2359721,53.1184284],[-1.2358975,53.1185803],[-1.2357815,53.1187127],[-1.2356967,53.1187864],[-1.2356693,53.1188059]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2378258,53.120281],[-1.2372224,53.1198477]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2356693,53.1188059],[-1.2354799,53.1186746],[-1.2343459,53.1178885],[-1.233334,53.1171962],[-1.2332681,53.1171565]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2332681,53.1171565],[-1.2316169,53.1159877],[-1.230643,53.11523]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.227876,53.1227482],[-1.2277918,53.1226558],[-1.2275612,53.1224029],[-1.226947,53.1219952]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2446728,53.1139926],[-1.2446362,53.1139982],[-1.2445557,53.1140087],[-1.2445537,53.1140956],[-1.2445238,53.1141315],[-1.2444947,53.1141657],[-1.244549,53.1141834],[-1.2445229,53.114216],[-1.2444833,53.1142607],[-1.244505,53.1143029]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Kirkby Folly Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2436612,53.1148113],[-1.2431672,53.1153914],[-1.2425446,53.1160395],[-1.2420776,53.1166458],[-1.242031,53.1167063],[-1.2417961,53.1170516]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Kirkby Folly Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2440434,53.1144124],[-1.2436612,53.1148113]]]}}
+]
+}

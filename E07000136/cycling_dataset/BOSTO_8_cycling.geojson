@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BOSTO_8_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0659551,52.9227249],[-0.0661754,52.9228775],[-0.0663014,52.9229648],[-0.0663631,52.9230521],[-0.0663846,52.923141],[-0.0663497,52.923251],[-0.0662934,52.923348],[-0.0662236,52.9234208],[-0.0660815,52.9234871],[-0.0659164,52.9235468],[-0.0654565,52.9237264],[-0.0653762,52.9238856]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0628006,52.9214396],[-0.0627774,52.9214526]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0659164,52.9235468],[-0.0660135,52.9236322]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0626888,52.9215023],[-0.0626617,52.9215175],[-0.0625046,52.9216192],[-0.0623961,52.921739],[-0.0622863,52.9218998]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0627774,52.9214526],[-0.0626888,52.9215023]]]}}
+]
+}

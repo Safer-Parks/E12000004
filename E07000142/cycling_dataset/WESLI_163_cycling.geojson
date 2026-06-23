@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_163_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3375833,53.3876012],[-0.3378866,53.387255],[-0.3379209,53.3871925]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3449281,53.3903654],[-0.3450072,53.390427]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3448194,53.3881422],[-0.3447416,53.3894441],[-0.3449281,53.3903654]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3450072,53.390427],[-0.3450085,53.3905094],[-0.344747,53.3906405],[-0.3445418,53.3907021],[-0.3443487,53.3907173],[-0.3441221,53.3906933],[-0.3437693,53.3905846]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3437693,53.3905846],[-0.3432342,53.3903926],[-0.3429848,53.3903582],[-0.3427514,53.390379],[-0.3425194,53.3904102],[-0.3423169,53.390347],[-0.342213,53.3902762],[-0.3422338,53.3902047],[-0.3424108,53.3900599],[-0.342451,53.3899255],[-0.3424698,53.3897512],[-0.3425315,53.3896808],[-0.3425181,53.3895688],[-0.3424242,53.3894905],[-0.3423652,53.3893513],[-0.3422324,53.3892225],[-0.3420393,53.3891561],[-0.3418073,53.3891545],[-0.3414921,53.3892073],[-0.3410147,53.3893089],[-0.3407291,53.3893441],[-0.3403857,53.3893425],[-0.3402516,53.3893425],[-0.3401242,53.3895876],[-0.3400304,53.3896179]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3434999,53.3922371],[-0.3434059,53.3919905],[-0.3432744,53.3912777],[-0.343194,53.3906661],[-0.3432342,53.3903926]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3455557,53.3851497],[-0.3453934,53.3856313],[-0.3442816,53.3880092],[-0.3442736,53.3881366]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3455557,53.3851497],[-0.3454673,53.3851388]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3484216,53.3847744],[-0.3474024,53.3847986],[-0.3456777,53.3848074],[-0.3455557,53.3851497]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Jameson Bridge Street","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3339911,53.3870116],[-0.3339219,53.3870905],[-0.3338881,53.387129],[-0.3337841,53.3872322],[-0.3336624,53.3873358]]]}}
+]
+}

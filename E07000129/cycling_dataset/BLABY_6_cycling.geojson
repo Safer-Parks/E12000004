@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BLABY_6_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2794008,52.5602752],[-1.2792652,52.5600876],[-1.2791482,52.5598147],[-1.27909,52.5595411],[-1.2791115,52.5592345],[-1.2791511,52.5589218]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2770842,52.5553914],[-1.2770802,52.5555097],[-1.2770373,52.5555504]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.281715,52.5536155],[-1.2819028,52.553653],[-1.2820503,52.5537427],[-1.2823427,52.5540672],[-1.2825465,52.5541569],[-1.2827155,52.5542042],[-1.2830856,52.5542425],[-1.2831759,52.5543361]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2808996,52.5499052],[-1.2821335,52.5503423],[-1.2824178,52.5502746]]]}}
+]
+}

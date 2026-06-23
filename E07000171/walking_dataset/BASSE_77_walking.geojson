@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_77_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Pusto Hill Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9551783,53.403287],[-0.9554036,53.403391],[-0.9555252,53.4034505],[-0.9555453,53.4035148],[-0.9552247,53.4037986],[-0.9550241,53.4040106],[-0.9542774,53.4049549],[-0.9531666,53.4059991],[-0.9531608,53.4060914],[-0.9529667,53.4091696]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Mill Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.961478,53.4070778],[-0.9612055,53.407113],[-0.9581826,53.4067099],[-0.9557921,53.4064578],[-0.9531666,53.4059991]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Rock Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9531666,53.4059991],[-0.9508776,53.4056452],[-0.9500913,53.4051734],[-0.949602,53.4047366],[-0.9494622,53.4043871],[-0.9493906,53.4040567]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Tethering Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9288717,53.4175636],[-0.9335293,53.4164921],[-0.9358023,53.4158932],[-0.9405015,53.4147039],[-0.9465097,53.4148573],[-0.9466599,53.414755],[-0.9474538,53.4122483],[-0.9476469,53.4122355],[-0.9497283,53.4122866],[-0.9507583,53.4121843],[-0.9515999,53.4122535]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Tethering Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9555291,53.4099327],[-0.95546,53.4100555],[-0.9550517,53.4107989],[-0.9549261,53.4111819]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9506353,53.4033953],[-0.9509537,53.4033704],[-0.95214,53.4032036],[-0.9527555,53.4031336],[-0.9534829,53.4030969],[-0.9540312,53.4030902],[-0.9543334,53.4031503],[-0.9545628,53.403217],[-0.9551783,53.403287]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Tethering Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9515999,53.4122535],[-0.9517016,53.4120962],[-0.9520672,53.4111995],[-0.9525413,53.4105174],[-0.9532908,53.4094514]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9517016,53.4120962],[-0.9521499,53.4121302],[-0.9526947,53.4121593],[-0.9533624,53.4121914],[-0.9540322,53.4122295],[-0.9543879,53.4122531],[-0.9547089,53.4122738],[-0.9547515,53.4119723]]]}}
+]
+}

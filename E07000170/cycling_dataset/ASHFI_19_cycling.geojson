@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFI_19_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2460182,53.0894031],[-1.2459279,53.0894814],[-1.2462992,53.0897331],[-1.2471884,53.090735],[-1.2475912,53.091357],[-1.2479187,53.0919856],[-1.2482198,53.0927634],[-1.2483593,53.0934274],[-1.24837,53.0941739],[-1.2483879,53.0947561]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2525802,53.0890139],[-1.2529465,53.0888199],[-1.2531028,53.0886968],[-1.2531213,53.0885831],[-1.252937,53.0884301],[-1.2524958,53.0881512],[-1.2523006,53.0880238],[-1.2521826,53.0879009],[-1.2521231,53.0878186]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2528843,53.0875715],[-1.2526437,53.0876122],[-1.2524139,53.0876271],[-1.2520405,53.0876116],[-1.251838,53.0875786]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2531028,53.0886968],[-1.2537662,53.0891628]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2489266,53.0975524],[-1.2488262,53.0975538],[-1.2484679,53.0975586],[-1.2483942,53.0975192],[-1.2483686,53.0974944]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2483628,53.0974664],[-1.2482144,53.097458]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2483879,53.0947561],[-1.2483458,53.0952817],[-1.2483705,53.0963617],[-1.2483692,53.0964083],[-1.2483595,53.0967543],[-1.2483628,53.0974664],[-1.2483686,53.0974944]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2483595,53.0967543],[-1.2482037,53.0967495]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2380796,53.0977622],[-1.2380238,53.0978598],[-1.2378395,53.0982478],[-1.2377483,53.0984588],[-1.2376303,53.0986585],[-1.237582,53.0987938]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Lowmoor Road","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2448618,53.1002362],[-1.2448605,53.100311],[-1.2450263,53.1006605]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2551484,53.0964561],[-1.2553232,53.0963648],[-1.255758,53.0962317],[-1.2558148,53.0963802]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2462311,53.0924964],[-1.2462967,53.0926536],[-1.2463867,53.0927021],[-1.2464922,53.0927244],[-1.2466183,53.0927134],[-1.2469519,53.092696],[-1.2472517,53.0927192],[-1.2478941,53.0927746],[-1.2482198,53.0927634]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2521231,53.0878186],[-1.2521204,53.0877931],[-1.2521561,53.0877206],[-1.252212,53.0876878],[-1.2526721,53.0876662],[-1.2529081,53.0876276],[-1.2530637,53.0876373],[-1.2532254,53.0876837]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.251838,53.0875786],[-1.2517327,53.0875325],[-1.2516087,53.0874639],[-1.2508926,53.087108],[-1.2505203,53.0869587],[-1.2487247,53.0865751],[-1.2484076,53.08653],[-1.2481193,53.0865354],[-1.2479167,53.0865475],[-1.2477209,53.0865305],[-1.2476029,53.086499],[-1.2475372,53.0864531],[-1.2474634,53.0863178],[-1.2471843,53.0857365],[-1.246927,53.0850358],[-1.2465893,53.0842252]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2521231,53.0878186],[-1.2519976,53.0876964],[-1.251838,53.0875786]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2468579,53.0885685],[-1.2470018,53.0890055]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Lowmoor Road","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2450263,53.1006605],[-1.2451012,53.1007398]]]}}
+]
+}

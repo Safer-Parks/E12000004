@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_117_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6374776,53.2952969],[-0.6375557,53.2954458],[-0.6381431,53.2983938],[-0.6359035,53.2995536],[-0.6357734,53.2996041],[-0.6358069,53.2997179],[-0.6359196,53.2997131]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6370988,53.2936871],[-0.6343007,53.29557]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6278686,53.2846125],[-0.6294394,53.2871841],[-0.6304371,53.2888532],[-0.6336987,53.2895587],[-0.6358912,53.290065]]]}}
+]
+}

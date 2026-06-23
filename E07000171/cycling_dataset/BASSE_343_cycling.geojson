@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_343_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Retford Gate","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8712724,53.3285026],[-0.8667757,53.3283278],[-0.8621124,53.3281907],[-0.853635,53.3283714]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8615081,53.3264719],[-0.8616586,53.3264743],[-0.8619025,53.3263286],[-0.8621017,53.3262194],[-0.862309,53.3261902],[-0.8624269,53.3261854],[-0.8625042,53.3261684],[-0.8625286,53.3260786],[-0.8625895,53.3256148],[-0.862553,53.3251631],[-0.8626342,53.3233301]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8625042,53.3261684],[-0.8625894,53.3262254],[-0.8626781,53.3263258],[-0.8627108,53.3264318],[-0.8626875,53.3265936],[-0.8626688,53.3266884]]]}}
+]
+}

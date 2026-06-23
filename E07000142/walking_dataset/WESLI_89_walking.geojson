@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_89_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5726783,53.3843651],[-0.570028,53.3854053],[-0.5688263,53.3859173],[-0.5675389,53.3864292],[-0.5664824,53.3868799],[-0.563988,53.3879069],[-0.5624269,53.3885467],[-0.5614184,53.3889403],[-0.5605333,53.3891514],[-0.5568959,53.3899612],[-0.5530335,53.3908825],[-0.5510594,53.391292],[-0.5495346,53.3916311],[-0.5476691,53.392039],[-0.5475039,53.3920501]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5826984,53.3839197],[-0.5812989,53.3840036],[-0.5781705,53.3838552]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5726783,53.3843651],[-0.5735849,53.383978],[-0.574625,53.3832516]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.578417,53.3752877],[-0.5786034,53.3752469],[-0.5819696,53.3749237],[-0.582372,53.3749237],[-0.5832812,53.374834],[-0.5834448,53.3747732]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.578417,53.3752877],[-0.5783274,53.375329]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5772261,53.3700109],[-0.5776003,53.3724834],[-0.577613,53.3725366]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.577613,53.3725366],[-0.5775198,53.3731155],[-0.578417,53.3752877]]]}}
+]
+}

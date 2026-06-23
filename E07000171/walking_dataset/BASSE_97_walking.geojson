@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_97_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Beckingham Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8243828,53.3078924],[-0.8262228,53.308151],[-0.8273439,53.3084164],[-0.8289603,53.3084708]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.824651,53.3072433],[-0.8243828,53.3078924]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Brickings Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.818262,53.3187529],[-0.8184695,53.3186447],[-0.8207631,53.3183533],[-0.8214827,53.3182619],[-0.8216981,53.3182602],[-0.8217487,53.3182598]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Meadow Dike Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.818262,53.3187529],[-0.8178964,53.318803],[-0.8165711,53.3188766],[-0.8151111,53.3189576],[-0.8145997,53.3189245],[-0.8126956,53.3188214],[-0.8120609,53.3188361],[-0.8081839,53.3187169],[-0.808111,53.3187147]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8216981,53.3182602],[-0.8217785,53.3188141],[-0.8217662,53.3191969]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8248758,53.30611],[-0.8238056,53.3060187],[-0.8221963,53.3066566],[-0.8155789,53.3069844]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8248758,53.30611],[-0.8240014,53.3056549],[-0.8238164,53.3055924],[-0.8233443,53.3055026],[-0.8233523,53.3054144],[-0.8231029,53.3053103],[-0.8230788,53.3050314],[-0.8230224,53.3048246],[-0.8229221,53.304488]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8248758,53.30611],[-0.8247605,53.3069146],[-0.824651,53.3072433]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8248758,53.30611],[-0.8255595,53.3062914]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Beckingham Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8243828,53.3078924],[-0.8211154,53.3073137]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8190613,53.3109806],[-0.8191681,53.3108715],[-0.8195838,53.3102272],[-0.8198574,53.3097929],[-0.820123,53.3095173],[-0.8208391,53.3081022],[-0.8211154,53.3073137]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.822931,53.3182016],[-0.8228977,53.3178764],[-0.8232021,53.3176305],[-0.8212987,53.31649]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8212987,53.31649],[-0.8204341,53.3158871],[-0.8186528,53.3156176]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8207631,53.3183533],[-0.8211207,53.3179189],[-0.8209813,53.3171434],[-0.8212987,53.31649],[-0.8216089,53.3159897],[-0.8220595,53.3153455],[-0.8231807,53.310849],[-0.8238405,53.3098074],[-0.8243828,53.3078924]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8143026,53.3148296],[-0.8186528,53.3156176]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8181844,53.3185408],[-0.8171886,53.3186623],[-0.8164121,53.3186701],[-0.8131921,53.3187296],[-0.8124948,53.3187232],[-0.8118403,53.3186111],[-0.8082891,53.3185838],[-0.808171,53.318595],[-0.8081839,53.3187169]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8220998,53.3205996],[-0.8221252,53.3206675],[-0.8214989,53.3223185],[-0.8215195,53.3223837]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8258425,53.3209744],[-0.8244011,53.3210945],[-0.8242656,53.3207396],[-0.8242035,53.3207159]]]}}
+]
+}

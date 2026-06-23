@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_91_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7722725,53.3139049],[-0.7597542,53.3139522]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7795475,53.3084387],[-0.7796598,53.3085175],[-0.779818,53.3085431],[-0.7811242,53.3085046],[-0.781194,53.3085271],[-0.7813335,53.3087338]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7717887,53.3119982],[-0.7722676,53.3120545],[-0.7722536,53.3118731],[-0.7732903,53.3118341],[-0.7733978,53.3127102],[-0.7733511,53.3131231],[-0.7731596,53.3134439]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7712746,53.3085381],[-0.7710788,53.3084756],[-0.7707408,53.3082592],[-0.7704002,53.3080894],[-0.7676321,53.307365],[-0.7645788,53.3066536],[-0.7581693,53.3052317],[-0.7579252,53.3051949],[-0.7577831,53.3052141],[-0.757708,53.305243],[-0.757657,53.3053167],[-0.7574692,53.3055875],[-0.7568738,53.3063088],[-0.7563521,53.3068849],[-0.7560892,53.3071734]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Wells Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7731596,53.3134439],[-0.7722884,53.3134835]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Wells Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7731596,53.3134439],[-0.774461,53.3134515],[-0.775035,53.3133922]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Okercoal Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7778773,53.3180936],[-0.7778835,53.317991],[-0.7777065,53.3178163],[-0.7759926,53.3165137],[-0.7756788,53.3161884]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Okercoal Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7758933,53.3094035],[-0.7759049,53.3086697]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Okercoal Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7756788,53.3161884],[-0.7755044,53.3158471],[-0.77544,53.3155074],[-0.7754561,53.3151981],[-0.7753515,53.3143969],[-0.775035,53.3133922],[-0.7749572,53.3129339],[-0.7750618,53.3121182],[-0.7753274,53.3114035],[-0.7757968,53.3101487],[-0.775896,53.3096599],[-0.7758933,53.3094035]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7720064,53.3087861],[-0.7718465,53.3087472],[-0.7716676,53.3086931],[-0.7715204,53.308634],[-0.7713373,53.3085598],[-0.7712746,53.3085381]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7578032,53.3089219],[-0.7578582,53.3089043],[-0.7587647,53.3095974],[-0.7588667,53.3095702],[-0.759733,53.3101535],[-0.7604814,53.3105445],[-0.7608542,53.3106167],[-0.767439,53.3105157],[-0.7680935,53.310474],[-0.7684368,53.3103779],[-0.768646,53.3102433],[-0.7689518,53.3098106],[-0.7695901,53.3093298],[-0.7699683,53.3089355],[-0.7701293,53.3087064],[-0.7701802,53.3086375],[-0.7702687,53.308615],[-0.7711351,53.308607],[-0.7712746,53.3085381]]]}}
+]
+}

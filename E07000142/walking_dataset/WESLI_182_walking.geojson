@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_182_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5377267,53.3639173],[-0.5399681,53.3698258]]]}}
+]
+}

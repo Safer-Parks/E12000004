@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "RUSHC_27_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.0311022,52.9615284],[-1.031178,52.9614269]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"The Cliffs","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.0311022,52.9615284],[-1.0309818,52.961586],[-1.0309439,52.9616506],[-1.030827,52.9618497],[-1.0307251,52.9621725],[-1.0307402,52.9625226],[-1.0305666,52.962975],[-1.0306044,52.9632205]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.0434508,52.9482507],[-1.043424,52.9483638]]]}}
+]
+}

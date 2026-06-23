@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_41_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9057992,53.4074632],[-0.9063,53.4079133],[-0.9063926,53.408014],[-0.9067416,53.408329],[-0.9072917,53.4087033],[-0.9077681,53.4090419],[-0.9084217,53.4095394],[-0.9086116,53.409699],[-0.9087325,53.4098683],[-0.9089368,53.4102336],[-0.908896,53.4102985],[-0.9086033,53.4103594]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9054814,53.4074761],[-0.9055487,53.4077106],[-0.9056159,53.4077648],[-0.9057089,53.4078174],[-0.9063,53.4079133]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9089368,53.4102336],[-0.9089977,53.4103219]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9089977,53.4103219],[-0.9090563,53.4104267],[-0.9091228,53.4105521],[-0.9091441,53.4106108],[-0.9091495,53.4106489],[-0.9091228,53.4106743],[-0.9090643,53.410706],[-0.9087988,53.4107739]]]}}
+]
+}

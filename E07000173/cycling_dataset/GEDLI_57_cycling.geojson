@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GEDLI_57_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Killisick Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1133743,53.0145475],[-1.1131888,53.0145039],[-1.1119303,53.0142529],[-1.1113672,53.0141406],[-1.1112257,53.0141284],[-1.1099889,53.0138981],[-1.109605,53.0138266],[-1.1097107,53.0130605],[-1.1100122,53.0108736]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1067408,53.0075562],[-1.1068213,53.0074812],[-1.1068749,53.007503],[-1.1069092,53.0074719]]]}}
+]
+}

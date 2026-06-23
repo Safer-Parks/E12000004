@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_204_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.17949,53.2855638],[-1.1793931,53.2855441],[-1.1786248,53.2856498],[-1.1784971,53.2857035],[-1.1779212,53.2858084],[-1.1774116,53.2858605],[-1.1771514,53.2858669],[-1.1768754,53.2858212],[-1.176831,53.2858209]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Ratcliffe Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1753096,53.2860337],[-1.1752092,53.2861108],[-1.1751052,53.28623],[-1.174953,53.2863697],[-1.1746947,53.2865368],[-1.1743337,53.2866553],[-1.1738842,53.2868817],[-1.1736152,53.2870192],[-1.1734241,53.287199],[-1.1733341,53.2873175],[-1.1731768,53.2875317],[-1.1730463,53.2878065],[-1.1728871,53.2879995],[-1.1726671,53.2882675],[-1.1724433,53.2885569]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Ratcliffe Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.176831,53.2858209],[-1.1768021,53.2858554],[-1.1767475,53.2858783],[-1.1760702,53.2859406],[-1.1753096,53.2860337]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1643243,53.2852175],[-1.1682921,53.2853345],[-1.1697941,53.2853442],[-1.1699317,53.2853732],[-1.1699872,53.285373],[-1.1719506,53.2856937],[-1.1735438,53.2859759],[-1.1752041,53.2860238],[-1.1753096,53.2860337]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1659679,53.2967401],[-1.166039,53.2964778],[-1.1660986,53.2962904],[-1.1662697,53.2961027],[-1.166694,53.295585],[-1.167128,53.2950478],[-1.1674732,53.2946277],[-1.1675679,53.2945124],[-1.1681633,53.2937877],[-1.168732,53.293108],[-1.169306,53.2923929],[-1.1699014,53.2916779],[-1.1707272,53.2906652]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1707272,53.2906652],[-1.1708911,53.2906441],[-1.1719287,53.2905448],[-1.1723075,53.2904991],[-1.1723551,53.2905099],[-1.1724008,53.2906584]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Ratcliffe Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1707272,53.2906652],[-1.165208,53.2898143]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Ratcliffe Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1724433,53.2885569],[-1.1707272,53.2906652]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1803211,53.2850117],[-1.1802983,53.2849973],[-1.1802661,53.2850063]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1707272,53.2906652],[-1.1707833,53.2906937],[-1.1710119,53.2910616],[-1.1710384,53.291082],[-1.1710844,53.2911084],[-1.1711428,53.2911317],[-1.1711906,53.2911359],[-1.1712879,53.2911391],[-1.1716649,53.2911116]]]}}
+]
+}

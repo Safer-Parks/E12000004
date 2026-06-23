@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_125_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6451205,53.2574514],[-0.6467809,53.2575662],[-0.6492327,53.2576919],[-0.6500359,53.2577254],[-0.6502694,53.2577058],[-0.6504889,53.25765],[-0.6507971,53.2574824],[-0.6513342,53.2572868],[-0.6535501,53.2568803],[-0.6537252,53.2568482],[-0.6538593,53.2567959],[-0.6538781,53.2567886],[-0.65394,53.2567644]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.656061,53.2511021],[-0.6564809,53.2511187],[-0.6585144,53.2517786],[-0.6587917,53.2518118],[-0.6611703,53.2518892],[-0.6612504,53.2519224]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6396946,53.2391914],[-0.6397781,53.2394471],[-0.6407744,53.2426864],[-0.641225,53.2448372],[-0.6427109,53.2486413],[-0.6433761,53.2503613],[-0.6478245,53.2522524],[-0.6480422,53.2524303],[-0.6483289,53.2523909]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6530486,53.2505177],[-0.6531349,53.2509565],[-0.653215,53.2509896],[-0.656061,53.2511021]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6612504,53.2519224],[-0.6613058,53.2519888],[-0.6618358,53.2531206],[-0.6621747,53.2541381],[-0.6621994,53.2543667],[-0.6621624,53.2545694],[-0.6620207,53.2547611],[-0.6618974,53.2548643]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6483289,53.2523909],[-0.6498148,53.2521866],[-0.6504103,53.2522586],[-0.6512619,53.2521736],[-0.652379,53.2519881],[-0.653123,53.2519298]]]}}
+]
+}

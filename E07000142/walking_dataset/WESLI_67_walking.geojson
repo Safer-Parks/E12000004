@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_67_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.665682,53.3752399],[-0.6654482,53.3746892],[-0.6650896,53.3744089],[-0.6649289,53.3742724],[-0.6645579,53.3736085],[-0.6644219,53.3734978],[-0.6642921,53.3734646],[-0.6642303,53.373413],[-0.6640262,53.3734019],[-0.663241,53.3735273]]]}}
+]
+}

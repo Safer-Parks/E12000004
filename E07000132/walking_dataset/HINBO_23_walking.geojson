@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "HINBO_23_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3475955,52.5794696],[-1.3480246,52.5806105],[-1.3483787,52.5807377],[-1.3487488,52.5808387],[-1.3492799,52.5809919],[-1.3500371,52.5812036],[-1.3503796,52.5812853],[-1.3504969,52.5813647],[-1.3499591,52.5834721],[-1.3500098,52.5835397],[-1.3500509,52.5836251],[-1.3502866,52.5837537],[-1.3504189,52.5838084],[-1.3505578,52.5838598]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.36124,52.5808565],[-1.3585354,52.5795282]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3537314,52.5751931],[-1.3536012,52.575523],[-1.3531429,52.5761276],[-1.3527993,52.5764402],[-1.3510401,52.5780975]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.346619,52.5736751],[-1.3466616,52.5737493],[-1.3468177,52.5739387],[-1.3470299,52.5740769],[-1.3461669,52.5748049],[-1.3461137,52.5749223],[-1.3462742,52.5750338],[-1.3465823,52.5751386],[-1.3474433,52.5757114],[-1.3497393,52.5772636],[-1.3503282,52.5775614],[-1.3510401,52.5780975],[-1.3519668,52.5788528],[-1.3521137,52.578908],[-1.3522349,52.579032],[-1.3538451,52.5796714],[-1.3543226,52.579831],[-1.3546641,52.5798425],[-1.357898,52.5801703]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3510401,52.5780975],[-1.3496024,52.5791928]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3532752,52.5816109],[-1.3525896,52.5815608],[-1.352143,52.5815312],[-1.3517348,52.5815109],[-1.3512676,52.5814734],[-1.3508364,52.5814438],[-1.3504969,52.5813647]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3578818,52.584384],[-1.3577499,52.5844266],[-1.357542,52.5844609],[-1.3573751,52.5844578],[-1.3571929,52.5843876],[-1.3570363,52.5842784],[-1.3569233,52.5841458],[-1.3568812,52.5840321],[-1.3568822,52.5839119],[-1.3575959,52.5827467],[-1.3575856,52.5826625],[-1.3575035,52.5825533],[-1.3573623,52.5825081],[-1.3554036,52.5820293],[-1.3532752,52.5816109]]]}}
+]
+}

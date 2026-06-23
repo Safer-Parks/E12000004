@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "MELTO_23_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8996306,52.7648041],[-0.8992685,52.7650798]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9003938,52.7666215],[-0.9006511,52.7665918],[-0.9012328,52.7665266],[-0.9013098,52.76651],[-0.9013629,52.7664851]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9054523,52.7719153],[-0.9053321,52.7718937]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9055244,52.7717502],[-0.9054106,52.771729]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8997551,52.764729],[-0.8996306,52.7648041]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9013629,52.7664851],[-0.9020362,52.766421],[-0.9026269,52.7663383],[-0.9028207,52.7663136],[-0.9029083,52.766315],[-0.9030215,52.7662882],[-0.9031371,52.7662811],[-0.9032153,52.7662804],[-0.9033403,52.7662557],[-0.9036286,52.7662196],[-0.9037057,52.7662267],[-0.9037827,52.7661942],[-0.9038107,52.7661912],[-0.9045498,52.7661123],[-0.9049701,52.7660706],[-0.9052771,52.7660847],[-0.9053484,52.7660897],[-0.9054464,52.7660699],[-0.9056566,52.7660204],[-0.9057815,52.7659978],[-0.9061388,52.7659625],[-0.9063404,52.7658921]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Riverside Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9045316,52.7653251],[-0.9052803,52.7637831],[-0.9052981,52.7637464]]]}}
+]
+}

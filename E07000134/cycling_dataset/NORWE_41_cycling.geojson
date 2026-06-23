@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORWE_41_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Bosworth Trail","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3930925,52.718064],[-1.3930317,52.7181364],[-1.3929831,52.7181789],[-1.3913065,52.7205731],[-1.390575,52.7213883],[-1.3904575,52.7215126]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Piper Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4026839,52.7208831],[-1.4025823,52.7212833],[-1.402568,52.7213398],[-1.4024592,52.7214172],[-1.4022814,52.7214188],[-1.4012058,52.7214541],[-1.4011125,52.7214729],[-1.4011172,52.7215491],[-1.4016763,52.7232148],[-1.4019462,52.723635],[-1.4021162,52.7237411]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4102864,52.712241],[-1.4105052,52.7123377],[-1.4130372,52.7135775],[-1.413168,52.7135451],[-1.4136874,52.7132533],[-1.414122,52.7135092],[-1.4145391,52.7137533],[-1.414379,52.7138599]]]}}
+]
+}

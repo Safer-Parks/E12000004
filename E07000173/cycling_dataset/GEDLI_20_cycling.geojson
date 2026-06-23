@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "GEDLI_20_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1835467,53.0290581],[-1.1835753,53.0290792],[-1.1835941,53.0290881]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1849482,53.0225467],[-1.1851409,53.0227449],[-1.1856674,53.0232491],[-1.1858559,53.0234453],[-1.1858803,53.0234972],[-1.1859349,53.0236136],[-1.1859516,53.0237217],[-1.1859435,53.0238928],[-1.1859099,53.0240031],[-1.1857343,53.0242858],[-1.1855935,53.0246137],[-1.1854917,53.0249703],[-1.1852162,53.0252543],[-1.1848401,53.0255359],[-1.184733,53.0256776],[-1.1846784,53.0258399],[-1.1845883,53.0262842],[-1.1845912,53.0264674],[-1.1845988,53.0267599],[-1.1845446,53.0269817],[-1.1844535,53.0272445],[-1.1843108,53.0276512],[-1.1842121,53.028023],[-1.1840395,53.0282593],[-1.1839391,53.0283737],[-1.1838781,53.0285802],[-1.1837477,53.0287679],[-1.183686,53.0288309],[-1.1836601,53.0288966],[-1.1836419,53.0289321],[-1.1835911,53.0290316],[-1.1835685,53.0290439],[-1.1835467,53.0290581]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1787082,53.028893],[-1.1785304,53.028846]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1789033,53.0285293],[-1.1787599,53.0284919]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1739236,53.0283911],[-1.1723005,53.027847]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1723005,53.027847],[-1.1721025,53.0279586],[-1.1705241,53.0296359]]]}}
+]
+}

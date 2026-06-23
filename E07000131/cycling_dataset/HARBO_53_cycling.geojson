@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HARBO_53_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9634757,52.6646872],[-0.9635269,52.6647171],[-0.9644151,52.6652346],[-0.9656114,52.6657919],[-0.9667865,52.6662189],[-0.9671131,52.6663357],[-0.9674623,52.6663765],[-0.9688426,52.6664639],[-0.9690883,52.6664935],[-0.9692828,52.6665232],[-0.9701445,52.666897],[-0.9711745,52.6674956],[-0.9717742,52.6678082]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.95992,52.6765261],[-0.9600595,52.6763433],[-0.9601829,52.676158],[-0.9601823,52.6760255],[-0.9600917,52.6759025],[-0.959933,52.6757895]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9668236,52.6741133],[-0.96758,52.6733896],[-0.967564,52.6733636],[-0.9666989,52.672993],[-0.9666144,52.6729538],[-0.9665823,52.672905],[-0.9666681,52.6728172]]]}}
+]
+}

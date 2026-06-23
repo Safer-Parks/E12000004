@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_113_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.59845,53.2937164],[-0.5988889,53.2937331],[-0.6053989,53.2934987],[-0.6097794,53.2930967],[-0.6133846,53.2928566],[-0.613506,53.2928176],[-0.6135341,53.2927171],[-0.6118155,53.289077],[-0.6116661,53.2882227],[-0.6108908,53.285604],[-0.6108908,53.2854924],[-0.6109095,53.285336],[-0.6108161,53.2852132],[-0.6105546,53.2849284],[-0.610543,53.2847991]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.610543,53.2847991],[-0.6102064,53.2845575],[-0.606321,53.2803638],[-0.60407,53.2779345],[-0.6040981,53.2778675],[-0.6042101,53.2778172],[-0.6052095,53.2777111],[-0.6062649,53.2775212],[-0.6071429,53.2773314],[-0.6081423,53.2770856],[-0.6090482,53.2768511],[-0.6091416,53.2767785],[-0.6091994,53.2767324]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6134065,53.2816342],[-0.6151766,53.2845694]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6094033,53.2767268],[-0.6109375,53.278074],[-0.6116778,53.2788694],[-0.6123537,53.2798878],[-0.6134065,53.2816342]]]}}
+]
+}

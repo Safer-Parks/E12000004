@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "MANSF_73_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2172428,53.1333444],[-1.2169049,53.1334015],[-1.216681,53.1334541],[-1.2164774,53.1335473]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2144004,53.1411252],[-1.2144093,53.1411509],[-1.2163165,53.1416151],[-1.2163509,53.1416322],[-1.2167468,53.1418289],[-1.2147332,53.1430475],[-1.2143361,53.1427958],[-1.213953,53.142553]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2143361,53.1427958],[-1.2163509,53.1416322]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.225136,53.1442211],[-1.2255613,53.1439726]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2190261,53.1421397],[-1.2186494,53.1420624]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2167468,53.1418289],[-1.2179271,53.1425202]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.215806,53.1386926],[-1.2158536,53.138586],[-1.2158716,53.1384998],[-1.2158912,53.1384404]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2209616,53.1384405],[-1.2208355,53.1387799],[-1.2207537,53.1388507],[-1.2206752,53.1390295]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2242272,53.1441531],[-1.223896,53.1439432],[-1.2238346,53.1438869],[-1.2238141,53.1438203],[-1.2236605,53.143677],[-1.2235785,53.1436319],[-1.2234215,53.1434579]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2203028,53.1440103],[-1.2204908,53.1441253],[-1.220473,53.1442258],[-1.2206568,53.1443341],[-1.2207338,53.1443795],[-1.2207745,53.1443533],[-1.2210006,53.1442071]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.220473,53.1442258],[-1.2204275,53.1442311]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2201895,53.1442314],[-1.2201321,53.1442658]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2206568,53.1443341],[-1.2206257,53.144352]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2207745,53.1443533],[-1.2211191,53.14456],[-1.2208918,53.1447119]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Sutton Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2230421,53.1353927],[-1.2227739,53.1354503],[-1.2222433,53.1355534],[-1.2221706,53.1355673],[-1.2212028,53.1357522],[-1.2208048,53.1358282]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Sutton Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2181539,53.1364184],[-1.2180762,53.1364446],[-1.2178586,53.1365227]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Sutton Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2172564,53.1367728],[-1.2171484,53.1368338],[-1.2168801,53.1369976],[-1.2166876,53.1371066]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Sutton Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2208048,53.1358282],[-1.2198347,53.1360211],[-1.2185532,53.1362885],[-1.2181539,53.1364184]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Sutton Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2174949,53.1366605],[-1.2172564,53.1367728]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Sutton Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2178586,53.1365227],[-1.2176733,53.1365885],[-1.2175641,53.1366337],[-1.2174949,53.1366605]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Sutton Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2166876,53.1371066],[-1.2165181,53.1371954],[-1.2162425,53.1373438]]]}}
+]
+}

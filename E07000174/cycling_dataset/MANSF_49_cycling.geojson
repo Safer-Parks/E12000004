@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "MANSF_49_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1948698,53.1626118],[-1.1948264,53.1624142],[-1.1947837,53.1622193],[-1.1947485,53.1620589],[-1.1947342,53.1619939],[-1.194704,53.1618561],[-1.1946973,53.1618256],[-1.1945848,53.1613131],[-1.194534,53.1610815],[-1.1944739,53.1608076]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2028111,53.1638412],[-1.2029875,53.1638494],[-1.2030351,53.1638491],[-1.2031522,53.1638484],[-1.2033127,53.163822],[-1.2037283,53.163736],[-1.2041354,53.163622],[-1.2043969,53.1635545],[-1.204719,53.1635339],[-1.2051878,53.1634827]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1908911,53.1672446],[-1.1909607,53.1673111],[-1.1914114,53.1677801],[-1.1916441,53.1680195]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2035959,53.167222],[-1.203596,53.1673728],[-1.2036377,53.1674918],[-1.2040756,53.1676242],[-1.2041859,53.167674],[-1.2045121,53.1677761],[-1.2053939,53.1680132]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.203132,53.1670195],[-1.2031638,53.1670593],[-1.2032979,53.1671269],[-1.2035959,53.167222]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2062918,53.1697802],[-1.2062691,53.1698032],[-1.2061409,53.1699729],[-1.2061489,53.1700437],[-1.2062187,53.1700871],[-1.2086556,53.1707874]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1947837,53.1622193],[-1.1948153,53.1622161]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2034748,53.1737303],[-1.2036917,53.1740158],[-1.2037039,53.1740763],[-1.2036764,53.1741587],[-1.2035786,53.1742302],[-1.2034195,53.1743017],[-1.2034063,53.174321]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2091433,53.1705932],[-1.2090721,53.170625],[-1.2086556,53.1707874],[-1.2084383,53.1708658],[-1.2080433,53.1709748],[-1.2078277,53.1710461],[-1.2075686,53.1711339],[-1.2071922,53.1709797],[-1.2066748,53.1708287]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2070345,53.1689822],[-1.2066543,53.1688333],[-1.2051771,53.1684404],[-1.2036833,53.1680355],[-1.2036377,53.1674918]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2045791,53.1738849],[-1.2044622,53.1739176],[-1.2043462,53.173943]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1943776,53.170269],[-1.1935541,53.1699206],[-1.1934688,53.1698679],[-1.1910367,53.16794]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1905775,53.1681533],[-1.1910367,53.16794],[-1.1913628,53.1677973],[-1.1914114,53.1677801]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1935541,53.1699206],[-1.1931748,53.1701817]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1943848,53.1707205],[-1.193218,53.1702009],[-1.1931748,53.1701817],[-1.1930453,53.1701222],[-1.1905775,53.1681533]]]}}
+]
+}
