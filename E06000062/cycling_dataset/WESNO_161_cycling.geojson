@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_161_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9844331,52.240511],[-0.9842314,52.2415346]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9852535,52.2377511],[-0.9851753,52.2377304],[-0.9850494,52.2376032],[-0.984395,52.2369758],[-0.9835635,52.2362021],[-0.9831181,52.2357997],[-0.9830813,52.235696]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9928641,52.2396247],[-0.9929375,52.2402284]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9896565,52.2449892],[-0.9885755,52.2449758],[-0.9880952,52.2449206],[-0.9875637,52.2448814],[-0.9871012,52.2449071],[-0.9870521,52.2449]]]}}
+]
+}

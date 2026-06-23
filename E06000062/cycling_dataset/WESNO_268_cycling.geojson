@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_268_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8250309,52.1819128],[-0.8236091,52.1821809],[-0.8234661,52.1821861]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8234661,52.1821861],[-0.8228394,52.182097],[-0.8221168,52.1819829],[-0.8211625,52.1817971],[-0.8117759,52.1798906]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8244927,52.1799419],[-0.8228667,52.1798496]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8228667,52.1798496],[-0.8220359,52.1795955],[-0.8146451,52.1767542],[-0.8144398,52.1766491],[-0.8084061,52.1748381],[-0.8065588,52.1744239]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Paynes Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.826628,52.1829559],[-0.8262096,52.1829157],[-0.8254662,52.1830092]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8187992,52.1923543],[-0.8197433,52.1912757],[-0.8202583,52.1903812],[-0.820902,52.1902102],[-0.8213416,52.1884296]]]}}
+]
+}

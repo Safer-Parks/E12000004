@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_54_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6936394,52.3079432],[-0.6933108,52.3074937]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6812114,52.3131074],[-0.6813416,52.3132331],[-0.6819655,52.3140378]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6828567,52.3125919],[-0.6829664,52.3127637],[-0.6835148,52.3131577]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6823425,52.3128182],[-0.6828567,52.3125919],[-0.6838028,52.3121057]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6813416,52.3132331],[-0.6816227,52.3131409],[-0.6821163,52.3129439],[-0.6823425,52.3128182],[-0.6814376,52.3120219],[-0.683268,52.311016]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6890196,52.3060665],[-0.6889313,52.3060495],[-0.6888194,52.306028]]]}}
+]
+}

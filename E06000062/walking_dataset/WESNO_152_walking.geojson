@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_152_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8945755,52.3359482],[-0.8946155,52.3357843],[-0.8946485,52.3356494],[-0.8946582,52.3356254],[-0.8946705,52.3355949],[-0.8947,52.3354649],[-0.8947361,52.3353055],[-0.8947559,52.3352182],[-0.8948336,52.3352079],[-0.8949217,52.335195],[-0.8949165,52.3351782],[-0.895157,52.3351545],[-0.8952166,52.3351274]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8989733,52.3313042],[-0.8989944,52.3314276],[-0.8988684,52.3316164],[-0.8989009,52.3317804],[-0.8988156,52.3319866],[-0.8989082,52.3323943]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8945172,52.3322969],[-0.8945357,52.3323122],[-0.8947874,52.3323338],[-0.8955304,52.3321781],[-0.8959112,52.3330385],[-0.8958706,52.3330737],[-0.8957744,52.3330877],[-0.8956082,52.3331385],[-0.895415,52.3332024],[-0.895348,52.333309],[-0.8953685,52.3333378]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8918926,52.3310118],[-0.8919013,52.3310979],[-0.8928342,52.3315822],[-0.8930655,52.3315525],[-0.8944419,52.3321814],[-0.89449,52.332251]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.89449,52.332251],[-0.8945172,52.3322969]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8918926,52.3310118],[-0.8918476,52.3309584],[-0.8877831,52.330221]]]}}
+]
+}

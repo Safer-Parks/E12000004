@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_215_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5478352,52.3663577],[-0.5480937,52.3665428]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5466599,52.3699149],[-0.5466275,52.3702624]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5486941,52.3722783],[-0.5493432,52.3723225],[-0.5494478,52.3722652],[-0.5493861,52.3718771],[-0.5493271,52.3713564],[-0.5492681,52.37068],[-0.5492701,52.3703143],[-0.5492708,52.3701822],[-0.5492494,52.3701167],[-0.5491743,52.3700676],[-0.5466599,52.3699149],[-0.5455147,52.3698454]]]}}
+]
+}

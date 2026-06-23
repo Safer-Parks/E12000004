@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOUDE_11_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Thorntree Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5768607,52.7906569],[-1.5769466,52.790579],[-1.577049,52.7905226],[-1.5772992,52.7902911],[-1.5773186,52.7901682],[-1.5772744,52.7900449],[-1.5771182,52.7898394],[-1.5765737,52.7893934],[-1.576428,52.7892374]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.576428,52.7892374],[-1.5765157,52.7895559],[-1.5767919,52.7901463],[-1.5768975,52.7904083],[-1.5768607,52.7906569]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5574603,52.7887917],[-1.5577411,52.788618]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5591744,52.789007],[-1.5591003,52.7892241],[-1.5590262,52.7894412],[-1.5589324,52.7899312],[-1.5589257,52.7900729],[-1.5592874,52.7909192],[-1.5595294,52.7913876],[-1.5596426,52.7919276]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5640949,52.7857693],[-1.5640915,52.7860137],[-1.5640672,52.7860784]]]}}
+]
+}

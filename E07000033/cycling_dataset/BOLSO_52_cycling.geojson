@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "BOLSO_52_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2840511,53.2825189],[-1.284053,53.2825605],[-1.284055,53.2826045]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2840511,53.2825189],[-1.2841386,53.2825158]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2841386,53.2825158],[-1.2841526,53.2824886],[-1.2841631,53.2824446],[-1.2841639,53.2824255],[-1.2841654,53.2823888],[-1.2841572,53.2823343],[-1.2841689,53.2822959],[-1.2842004,53.2822575],[-1.284267,53.2822115],[-1.2842903,53.2821793],[-1.2843043,53.2821389],[-1.2843008,53.2821033],[-1.2842915,53.2820586],[-1.284284,53.282006]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2841639,53.2824255],[-1.2842252,53.2824071],[-1.2842627,53.2823894],[-1.284307,53.2823557],[-1.2843767,53.2823181],[-1.2844719,53.2822756],[-1.2845712,53.2822547],[-1.2846958,53.2822351]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2868242,53.2899345],[-1.2867241,53.2899685],[-1.2866771,53.2899774],[-1.2866235,53.289975],[-1.2865135,53.2899589],[-1.2863848,53.2899509],[-1.286252,53.2899573],[-1.2861434,53.2899677],[-1.2860589,53.2899942],[-1.2860119,53.2900214],[-1.2859878,53.2900527],[-1.2858805,53.2901043]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2780628,53.2857576],[-1.2772288,53.2854327],[-1.2769173,53.2852989],[-1.2766285,53.2851212],[-1.276368,53.2849367],[-1.2760396,53.2847691],[-1.2755951,53.2844424],[-1.2754195,53.2842799],[-1.2754989,53.2841175]]]}}
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOUDE_18_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6444751,52.7788451],[-1.6444576,52.7789813],[-1.6444105,52.7791048],[-1.6443633,52.7792093],[-1.6442377,52.7793352],[-1.6441434,52.7793994],[-1.6439785,52.779492]]]}}
+]
+}

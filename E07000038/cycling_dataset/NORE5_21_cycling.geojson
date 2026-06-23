@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "NORE5_21_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4897495,53.2175053],[-1.4897753,53.217429],[-1.4896949,53.2172379],[-1.4895004,53.2172427],[-1.489198,53.2168556],[-1.4891538,53.2168013],[-1.4890662,53.2166974]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4935056,53.219205],[-1.4936725,53.2190296]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4880773,53.2174457],[-1.4887963,53.2173335],[-1.4889438,53.2175334],[-1.4892188,53.2175479],[-1.4894642,53.2175535],[-1.4896841,53.2175093],[-1.4897495,53.2175053],[-1.4897874,53.2175029],[-1.4899108,53.2178434],[-1.4898115,53.2179124]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"The Alders","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4936725,53.2190296],[-1.4938528,53.2188781],[-1.4939175,53.2189329],[-1.4939888,53.2190397],[-1.4939732,53.2191171],[-1.4939264,53.2191732]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"The Alders","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4938471,53.219243],[-1.4937749,53.2193065]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"The Alders","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4939264,53.2191732],[-1.4938868,53.2192081],[-1.4938471,53.219243]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4891538,53.2168013],[-1.48908,53.2168163]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4888464,53.2168902],[-1.4890189,53.2168364],[-1.48908,53.2168163]]]}}
+]
+}

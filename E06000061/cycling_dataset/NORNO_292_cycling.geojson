@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_292_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4782493,52.5565191],[-0.4789732,52.5567111],[-0.4794648,52.5566997],[-0.4800967,52.5565734],[-0.4807029,52.5562974],[-0.4811367,52.5557671],[-0.481995,52.5551001],[-0.4829445,52.5548408],[-0.4840119,52.5542307],[-0.4848461,52.5536615],[-0.4853238,52.5533254],[-0.4861603,52.5522678],[-0.4868073,52.551671]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4943786,52.5526636],[-0.4927454,52.5547147]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4926307,52.5505794],[-0.4926135,52.5503641]]]}}
+]
+}

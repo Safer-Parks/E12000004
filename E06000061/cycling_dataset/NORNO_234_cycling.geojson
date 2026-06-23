@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_234_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4286368,52.4709205],[-0.4286383,52.4709066],[-0.4287128,52.4705785],[-0.4287134,52.4705542],[-0.4287397,52.4705327],[-0.4287901,52.4705235]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4262391,52.4710826],[-0.4249177,52.470927]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4285792,52.4713682],[-0.4285778,52.471313],[-0.4286187,52.4712016],[-0.4286243,52.4711164],[-0.4286251,52.4711036]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4286243,52.4711164],[-0.4286834,52.4711089],[-0.4287415,52.4710712],[-0.4287676,52.4710143],[-0.4287694,52.4709612],[-0.4287568,52.4709372],[-0.4286383,52.4709066]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_509_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8787011,52.3294056],[-0.8781227,52.3303966],[-0.8779101,52.3307851],[-0.8778647,52.330847],[-0.8778296,52.3308735],[-0.87778,52.3309012],[-0.8777284,52.3309214],[-0.8776768,52.3309308],[-0.8776105,52.3309353],[-0.8775167,52.3309361],[-0.8773716,52.3309292],[-0.8772578,52.3309231],[-0.8771703,52.3309208],[-0.877059,52.3309201],[-0.8769339,52.3309254],[-0.8768026,52.3309346],[-0.876635,52.3309506]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8918926,52.3310118],[-0.8919013,52.3310979],[-0.8928342,52.3315822],[-0.8930655,52.3315525],[-0.8944419,52.3321814],[-0.89449,52.332251]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8918926,52.3310118],[-0.8918476,52.3309584],[-0.8877831,52.330221]]]}}
+]
+}

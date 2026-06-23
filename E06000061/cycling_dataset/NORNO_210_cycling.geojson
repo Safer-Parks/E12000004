@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_210_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7099887,52.2927971],[-0.7100626,52.2927608],[-0.7103935,52.2926468],[-0.7108176,52.2925192],[-0.7111341,52.2924216],[-0.7112112,52.2923913],[-0.7112682,52.292347],[-0.7113862,52.2922231],[-0.711451,52.292172],[-0.7116466,52.2921245],[-0.7121201,52.2920432],[-0.7121919,52.2920473],[-0.7122496,52.29208],[-0.7123115,52.292125],[-0.7123972,52.2921413],[-0.712491,52.2921338],[-0.7127501,52.2920794],[-0.7131382,52.2920019],[-0.7134859,52.2919599],[-0.7138351,52.2919266],[-0.7139826,52.2918983],[-0.7141261,52.2918474],[-0.7145968,52.2915923],[-0.7147604,52.2915201],[-0.7150273,52.2914398],[-0.7154256,52.291265],[-0.7157622,52.2910977],[-0.7159594,52.290973],[-0.7161927,52.2908245],[-0.7163939,52.2907294],[-0.7171512,52.2904368]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7169578,52.2901734],[-0.716929,52.2901984],[-0.7171512,52.2904368]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7173335,52.2905507],[-0.7175323,52.2907211]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7175323,52.2907211],[-0.717616,52.290782],[-0.7179657,52.2909901],[-0.7184326,52.2911892],[-0.7186901,52.2913066],[-0.7191093,52.2915237],[-0.7192699,52.2915918]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7171512,52.2904368],[-0.7172327,52.2904928],[-0.7173335,52.2905507]]]}}
+]
+}

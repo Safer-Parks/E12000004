@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "EREWA_3_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2720548,52.8862805],[-1.2738979,52.8859582],[-1.27405,52.8859321],[-1.2751939,52.8857219],[-1.2766354,52.8855463],[-1.2786548,52.8852488],[-1.2797889,52.8850756],[-1.2798382,52.8850676]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2759613,52.89327],[-1.2760995,52.8932708],[-1.2764212,52.8929008],[-1.2767812,52.8925048],[-1.2772121,52.8920716],[-1.2792459,52.8902062],[-1.2791569,52.8901504]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2719451,52.8861696],[-1.2719752,52.8862453],[-1.2720311,52.8862344],[-1.2720548,52.8862805],[-1.2722582,52.8865894]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Tamworth Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2806038,52.8890102],[-1.2806747,52.8889679],[-1.2809614,52.8887881],[-1.281068,52.8887224],[-1.281158,52.888667],[-1.2811822,52.8886524],[-1.2813195,52.888566]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Tamworth Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2723002,52.8962129],[-1.2722954,52.8960396],[-1.272271,52.8957529],[-1.2722739,52.8956134],[-1.2722831,52.8955262],[-1.2723083,52.8954061],[-1.2723943,52.8952848],[-1.2724689,52.8952185],[-1.2725607,52.8951659],[-1.2726738,52.8951125],[-1.2727693,52.8950811],[-1.2729246,52.8950371],[-1.2732112,52.8949714]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Tamworth Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2802529,52.8892295],[-1.2806038,52.8890102]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Tamworth Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2791569,52.8901504],[-1.2793348,52.8899748],[-1.2793798,52.8899366],[-1.2795694,52.8897698],[-1.27961,52.8897315],[-1.279757,52.8896031],[-1.2799018,52.8894798],[-1.2800089,52.8893903],[-1.2801289,52.889305],[-1.2802529,52.8892295]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Tamworth Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2738322,52.8948272],[-1.2743152,52.8947037],[-1.2745549,52.8946265],[-1.2746037,52.8946029],[-1.2747668,52.8945105],[-1.2748653,52.8944335],[-1.2749358,52.8943695],[-1.2750139,52.8942862],[-1.275141,52.8941506],[-1.275443,52.8938191],[-1.2755946,52.8936528],[-1.2759613,52.89327]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Tamworth Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2732112,52.8949714],[-1.2737651,52.8948438],[-1.2738322,52.8948272]]]}}
+]
+}
