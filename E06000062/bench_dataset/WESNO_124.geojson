@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_124",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9945862169, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.8854286, 52.0496078 ] } }
+]
+}

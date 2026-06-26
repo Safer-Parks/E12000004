@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DERDA_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8759772075, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5894113, 53.0924665 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8759772076, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5894435, 53.0925148 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8759772077, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.590263, 53.0923554 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8759772078, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.590322, 53.0924085 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BOLSO_32",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 539826971, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3346242, 53.1042009 ] } },
+{ "type": "Feature", "properties": { "osm_id": 539826968, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3342555, 53.1042312 ] } },
+{ "type": "Feature", "properties": { "osm_id": 539826965, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3335555, 53.1042414 ] } },
+{ "type": "Feature", "properties": { "osm_id": 539826967, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3339122, 53.1042529 ] } }
+]
+}

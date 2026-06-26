@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EREWA_68",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7281196833, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3097341, 52.9831342 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7281196826, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3093619, 52.9838524 ] } }
+]
+}

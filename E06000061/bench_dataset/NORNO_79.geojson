@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_79",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7024205099, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5994488, 52.4544428 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7024205098, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5995135, 52.4544453 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7024205097, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5995702, 52.4544537 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5392937603, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5979965, 52.4548991 ] } }
+]
+}

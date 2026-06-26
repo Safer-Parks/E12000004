@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "NOTTI_217",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13329975011, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1243569, 52.9435719 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6584701694, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1244131, 52.94358 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13907209166, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1243565, 52.9435884 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13907209167, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1244062, 52.9435937 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13329975012, "name": "Geoffrey Beeby", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": "plaque" }, "geometry": { "type": "Point", "coordinates": [ -1.1243757, 52.9435973 ] } }
+]
+}

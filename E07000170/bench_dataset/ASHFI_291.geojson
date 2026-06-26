@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFI_291",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11954800520, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2623551, 53.12371 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11954800519, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2624232, 53.1237559 ] } }
+]
+}

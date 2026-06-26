@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LEICE_58",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11143772831, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0564127, 52.6286244 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11143772834, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0560556, 52.6286272 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORKE_9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3926161594, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4028078, 52.9994718 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3926161599, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4035007, 52.9995882 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3926161610, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4025484, 52.9999339 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_460",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12137861749, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0755843, 52.2293157 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12137861750, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0755294, 52.229344 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12137861751, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0756281, 52.2295675 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12137861752, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0751732, 52.2295782 ] } }
+]
+}

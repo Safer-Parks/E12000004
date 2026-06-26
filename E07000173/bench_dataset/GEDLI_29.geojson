@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "GEDLI_29",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4769819490, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0835582, 52.9816238 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4769819485, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.083866, 52.9816408 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4769819489, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0836253, 52.9817368 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4769819487, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0837279, 52.9817974 ] } }
+]
+}

@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "EREWA_21",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13912618543, "name": "Josephine Mary, Eric Nicholson, and Diane Smith", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.3142698, 52.9738142 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912592657, "name": "Rex the Dog", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.3144299, 52.9738676 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912556167, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3142361, 52.9739399 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912592658, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3141956, 52.9739417 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912599816, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3141515, 52.9739524 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912617531, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3143293, 52.9739546 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912615775, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.314359, 52.9739652 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912616326, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3141253, 52.9739656 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912617660, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3143874, 52.9739762 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912613683, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3144067, 52.9739844 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912617661, "name": "Gary Winfield", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.3136925, 52.9741769 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912613684, "name": "Paul James Averill", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.3138848, 52.9743412 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912608961, "name": "Joanna Jennings", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.3141543, 52.9745997 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13912617045, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3141901, 52.9749301 ] } }
+]
+}

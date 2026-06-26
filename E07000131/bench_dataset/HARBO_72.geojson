@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HARBO_72",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4142903667, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0435085, 52.5342886 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4142903666, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0433476, 52.5345398 ] } }
+]
+}
