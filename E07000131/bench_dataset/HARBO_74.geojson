@@ -3,6 +3,8 @@
 "name": "HARBO_74",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "osm_id": 5914445825, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0018081, 52.6239465 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5914445824, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0018697, 52.6239947 ] } },
 { "type": "Feature", "properties": { "osm_id": 5914445834, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0018991, 52.624181 ] } }
 ]
 }
