@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DERDA_31",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4018507466, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5906352, 53.0932074 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4018507479, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5905241, 53.0932855 ] } }
+]
+}

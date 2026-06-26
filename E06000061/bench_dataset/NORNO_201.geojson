@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_201",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3210581164, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6944542, 52.300798 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3210581173, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6943278, 52.3008531 ] } }
+]
+}

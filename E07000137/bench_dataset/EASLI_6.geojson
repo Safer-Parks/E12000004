@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASLI_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7346859440, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2180431, 53.1513247 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7346818822, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.217905, 53.151377 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7346818821, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2178121, 53.1513977 ] } }
+]
+}

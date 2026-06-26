@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOUDE_42",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11898738233, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5753148, 52.7840549 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11898738232, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5755857, 52.7840903 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11898738231, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5759394, 52.7841331 ] } }
+]
+}

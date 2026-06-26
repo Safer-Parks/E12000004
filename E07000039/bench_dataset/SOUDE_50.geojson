@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "SOUDE_50",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11712444800, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.593397, 52.7726056 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444799, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5931899, 52.7732689 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444796, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5925495, 52.7742911 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444797, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5943572, 52.7744367 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444795, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5922781, 52.7749117 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444793, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5907276, 52.7751513 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444784, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5878192, 52.7734623 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444801, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5891516, 52.7742123 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444792, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.588523, 52.7747278 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444791, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5884972, 52.7747869 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444790, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.588595, 52.774797 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444786, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5894492, 52.7748235 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444789, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5885641, 52.7748616 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444788, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5886722, 52.7748702 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11712444787, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.589143, 52.775036 ] } }
+]
+}

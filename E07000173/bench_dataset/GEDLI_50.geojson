@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GEDLI_50",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3700360188, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.03954, 52.9865877 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3700360197, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0395208, 52.9866243 ] } }
+]
+}

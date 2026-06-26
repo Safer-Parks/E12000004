@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NEWSH_44",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 354719220, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9945635, 53.1025588 ] } },
+{ "type": "Feature", "properties": { "osm_id": 354719257, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9939627, 53.1025639 ] } },
+{ "type": "Feature", "properties": { "osm_id": 354719305, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9936451, 53.1025691 ] } }
+]
+}

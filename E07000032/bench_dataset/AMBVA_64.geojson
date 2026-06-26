@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "AMBVA_64",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9927824856, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5128571, 53.1135483 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9927824855, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5126801, 53.1136835 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1406884495, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5127942, 53.1137262 ] } }
+]
+}

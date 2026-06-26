@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "EASLI_34",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8796207543, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.335146, 53.2419103 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8796207544, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3351568, 53.2419593 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8796207549, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3349489, 53.241997 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8796207550, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3348657, 53.2420026 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8796207545, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3351983, 53.2420106 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8796207548, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.335016, 53.2420363 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8796207551, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3349274, 53.2420475 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8796207547, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3351098, 53.2420508 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8796207546, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3352131, 53.242062 ] } }
+]
+}

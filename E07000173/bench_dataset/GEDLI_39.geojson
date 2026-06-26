@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "GEDLI_39",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3891099454, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0357361, 52.9872877 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3891099459, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0356351, 52.9873099 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3891099460, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0357743, 52.9873184 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3891099461, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0356585, 52.9873285 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3891099464, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0356787, 52.9873464 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3891099465, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.035751, 52.9873478 ] } }
+]
+}

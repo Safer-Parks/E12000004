@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HIGPE_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8945406691, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.913757, 53.258167 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8945406692, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9136812, 53.2581975 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11787339153, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9139238, 53.2585872 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11787344144, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.9134661, 53.258667 ] } }
+]
+}

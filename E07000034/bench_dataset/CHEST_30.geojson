@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHEST_30",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8098265591, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4187524, 53.2192526 ] } }
+]
+}

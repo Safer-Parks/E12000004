@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_231",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12526674853, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9432854, 52.2416855 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11266563102, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9435261, 52.2417073 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12526675046, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9432739, 52.2417398 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11266563103, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9437137, 52.2418498 ] } }
+]
+}

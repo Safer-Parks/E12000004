@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORKE_83",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11365447527, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3866074, 53.0793893 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11365447526, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3865922, 53.0794914 ] } }
+]
+}

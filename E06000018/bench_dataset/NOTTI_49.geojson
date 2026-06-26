@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NOTTI_49",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6580293993, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1410878, 52.9336493 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6580294010, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1408399, 52.9337117 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6580294000, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1412964, 52.9337384 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10816671278, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1412303, 52.9358428 ] } }
+]
+}

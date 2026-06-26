@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_179",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4368717643, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7532295, 52.2653457 ] } }
+]
+}

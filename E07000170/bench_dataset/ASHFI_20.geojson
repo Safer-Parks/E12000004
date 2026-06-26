@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFI_20",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6512042519, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1847355, 53.0223041 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6512042537, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1859693, 53.0236652 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8467726638, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1842318, 53.0277966 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8467787660, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.18351, 53.0285451 ] } }
+]
+}

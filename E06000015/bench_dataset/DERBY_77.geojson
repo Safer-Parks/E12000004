@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DERBY_77",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8618923458, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4653522, 52.9194559 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8618923471, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4657035, 52.9195376 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8618923469, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4656231, 52.9196055 ] } }
+]
+}

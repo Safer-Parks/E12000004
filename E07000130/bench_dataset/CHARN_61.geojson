@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHARN_61",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8517815082, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2504029, 52.7632257 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8517815083, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2505357, 52.7632833 ] } }
+]
+}

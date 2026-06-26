@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "EREWA_93",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1589920751, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2721062, 52.9000885 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1589920774, "name": "Long Eaton & District Horticultural Society", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.2724432, 52.9001127 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1589920938, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2723993, 52.9003518 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1589920943, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2724964, 52.9003536 ] } }
+]
+}

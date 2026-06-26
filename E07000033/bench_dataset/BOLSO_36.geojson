@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BOLSO_36",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1729816949, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2158477, 53.222412 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1729816934, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2143161, 53.2225533 ] } }
+]
+}

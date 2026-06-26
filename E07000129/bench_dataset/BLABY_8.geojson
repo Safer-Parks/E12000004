@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BLABY_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13282648809, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1602219, 52.5763643 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13282648812, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1603152, 52.5763645 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13282648811, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1602704, 52.5763739 ] } }
+]
+}

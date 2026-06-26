@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHEST_34",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12258679687, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4715298, 53.2451336 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12258725916, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4716, 53.2451786 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12258679689, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4714647, 53.2451812 ] } }
+]
+}
