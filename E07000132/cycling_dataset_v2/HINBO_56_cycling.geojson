@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HINBO_56_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 254281063, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3383405, 52.57298 ], [ -1.3383002, 52.5731307 ] ] } }
+]
+}

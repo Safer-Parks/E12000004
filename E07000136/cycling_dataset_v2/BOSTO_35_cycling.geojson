@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BOSTO_35_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 908144380, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.004777, 52.9821136 ], [ -0.0048253, 52.9822077 ], [ -0.0049326, 52.9823942 ], [ -0.0049098, 52.9827232 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 863809692, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": "no", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.004716, 52.9832912 ], [ -0.0048037, 52.9831577 ], [ -0.0048756, 52.9830439 ], [ -0.0048873, 52.9829641 ], [ -0.0048895, 52.982841 ], [ -0.0049098, 52.9827232 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 908144379, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": "no", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.0049876, 52.9833312 ], [ -0.0049621, 52.9834261 ], [ -0.0049232, 52.9837062 ], [ -0.0049688, 52.9837757 ], [ -0.0050412, 52.9838653 ], [ -0.0050921, 52.9838821 ], [ -0.0051458, 52.9838839 ] ] } }
+]
+}

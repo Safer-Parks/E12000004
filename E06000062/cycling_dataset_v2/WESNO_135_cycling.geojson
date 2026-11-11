@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_135_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1339309320, "highway": "track", "name": null, "category": "Track", "bicycle": "permissive", "access": "permissive", "foot": "permissive", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2801648, 52.0190745 ], [ -1.2799419, 52.0185808 ], [ -1.2797648, 52.0180004 ], [ -1.2795038, 52.0177796 ], [ -1.2795874, 52.0170294 ], [ -1.2798932, 52.0164875 ], [ -1.280001, 52.0163306 ], [ -1.2800049, 52.0163263 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 149963502, "highway": "track", "name": null, "category": "Track", "bicycle": "permissive", "access": "permissive", "foot": "permissive", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2801648, 52.0190745 ], [ -1.2797303, 52.0191604 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 33714959, "highway": "track", "name": null, "category": "Track", "bicycle": "permissive", "access": "permissive", "foot": "permissive", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2771156, 52.0194332 ], [ -1.2777841, 52.0193537 ], [ -1.2794246, 52.0193155 ], [ -1.2797303, 52.0191604 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 33714974, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2635956, 52.0089925 ], [ -1.2635573, 52.0090486 ], [ -1.2635228, 52.0090666 ], [ -1.2636806, 52.0093503 ], [ -1.2640051, 52.0111824 ], [ -1.263964, 52.0112166 ], [ -1.2635658, 52.0120767 ], [ -1.2625839, 52.0141302 ], [ -1.2626368, 52.0161427 ], [ -1.2626746, 52.0168922 ], [ -1.2647829, 52.0180598 ], [ -1.264935, 52.018128 ], [ -1.2655006, 52.0189282 ], [ -1.2654605, 52.0190135 ], [ -1.2660238, 52.0198117 ], [ -1.2660568, 52.0199151 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 33714981, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2661834, 52.0202892 ], [ -1.2660568, 52.0199151 ] ] } }
+]
+}

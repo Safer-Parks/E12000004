@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_101_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 110897892, "highway": "cycleway", "name": "Old Brewery Walk", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "paving_stones" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1497775, 52.026193 ], [ -1.1495374, 52.0261788 ], [ -1.1491158, 52.0261313 ], [ -1.1490076, 52.026095 ], [ -1.1487568, 52.0260574 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 39817345, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1545943, 52.0318138 ], [ -1.1544203, 52.0319658 ], [ -1.1542678, 52.0321021 ], [ -1.1541062, 52.032201 ], [ -1.1538354, 52.0324265 ], [ -1.1535621, 52.0327546 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 24362418, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1397653, 52.0279318 ], [ -1.1397095, 52.0279737 ], [ -1.1396626, 52.027989 ], [ -1.1395264, 52.0280113 ], [ -1.1394879, 52.0280122 ], [ -1.1394587, 52.0280129 ], [ -1.139401, 52.0280166 ], [ -1.1393441, 52.0280311 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 24358110, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1414321, 52.0308916 ], [ -1.1409058, 52.0304355 ], [ -1.1408132, 52.0303881 ], [ -1.1407489, 52.0303575 ], [ -1.1404873, 52.030285 ], [ -1.1405043, 52.0301822 ] ] } }
+]
+}

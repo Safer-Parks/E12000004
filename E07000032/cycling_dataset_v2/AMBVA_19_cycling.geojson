@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "AMBVA_19_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 763114823, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4662494, 53.029022 ], [ -1.4656982, 53.0284521 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 363024411, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4659794, 53.0341322 ], [ -1.4658204, 53.0340649 ], [ -1.4656199, 53.0340598 ], [ -1.4654997, 53.0340589 ], [ -1.4654409, 53.0340529 ], [ -1.4653966, 53.0340279 ], [ -1.4653479, 53.0339814 ], [ -1.4652303, 53.0339787 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 169591251, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4783387, 53.0234489 ], [ -1.4784175, 53.0234353 ] ] } }
+]
+}

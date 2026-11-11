@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUHO_0_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 976294506, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "yes", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1138202, 52.7843038 ], [ 0.1139154, 52.7842863 ], [ 0.1139677, 52.7842851 ], [ 0.1140214, 52.7842859 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 976294507, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "yes", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1140214, 52.7842859 ], [ 0.114065, 52.7842924 ], [ 0.1141367, 52.7843082 ], [ 0.1141924, 52.7843253 ], [ 0.114236, 52.7843451 ], [ 0.1142936, 52.7843812 ], [ 0.1143754, 52.7844445 ], [ 0.1144653, 52.7845094 ], [ 0.1145585, 52.7845718 ], [ 0.1146711, 52.7846452 ] ] } }
+]
+}

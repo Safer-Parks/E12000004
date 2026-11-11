@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "AMBVA_21_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 60237755, "highway": "trunk", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3922455, 53.1050449 ], [ -1.3919658, 53.1044142 ], [ -1.3917819, 53.1040468 ], [ -1.391604, 53.1036794 ], [ -1.3912594, 53.1029893 ], [ -1.3909045, 53.1023032 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 60237754, "highway": "trunk", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3923242, 53.105214 ], [ -1.3922455, 53.1050449 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 60237749, "highway": "trunk", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3924227, 53.1054358 ], [ -1.3923242, 53.105214 ] ] } }
+]
+}

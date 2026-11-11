@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_5774_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 871991472, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9754128, 52.3474305 ], [ -0.9785672, 52.3459878 ], [ -0.9788033, 52.3456077 ], [ -0.9789105, 52.3455028 ], [ -0.9803268, 52.345162 ], [ -0.9820005, 52.3435496 ], [ -0.9821936, 52.3433792 ], [ -0.9835878, 52.3425146 ], [ -0.9835688, 52.3424426 ] ] } }
+]
+}

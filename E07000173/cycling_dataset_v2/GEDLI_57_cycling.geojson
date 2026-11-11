@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GEDLI_57_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 711865782, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1025796, 52.9984285 ], [ -1.1023926, 52.9988325 ], [ -1.1021935, 52.9992658 ], [ -1.1021156, 52.9995206 ], [ -1.1019373, 52.9999857 ], [ -1.1018718, 53.0001839 ], [ -1.1017508, 53.0005231 ], [ -1.1016856, 53.0007393 ], [ -1.1015771, 53.0010033 ], [ -1.1015908, 53.0011383 ], [ -1.1016713, 53.0012503 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 195444015, "highway": "bridleway", "name": "Killisick Lane", "category": "Bridleway", "bicycle": null, "access": "yes", "foot": null, "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1133743, 53.0145475 ], [ -1.1131888, 53.0145039 ], [ -1.1119303, 53.0142529 ], [ -1.1113672, 53.0141406 ], [ -1.1112257, 53.0141284 ], [ -1.1099889, 53.0138981 ], [ -1.109605, 53.0138266 ], [ -1.1097107, 53.0130605 ], [ -1.1100122, 53.0108736 ] ] } }
+]
+}

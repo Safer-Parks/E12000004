@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_176_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1559310204, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.06399, 53.386535 ], [ -1.0640414, 53.3865068 ], [ -1.0641141, 53.3864669 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1559310205, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0640414, 53.3865068 ], [ -1.0641366, 53.3865812 ], [ -1.0642484, 53.3866978 ], [ -1.0643591, 53.3868562 ], [ -1.0644218, 53.3869911 ], [ -1.0644476, 53.387148 ], [ -1.0644402, 53.3872902 ], [ -1.0644599, 53.3873657 ], [ -1.0644918, 53.3874141 ], [ -1.0646062, 53.3874933 ], [ -1.0646812, 53.3875241 ] ] } }
+]
+}

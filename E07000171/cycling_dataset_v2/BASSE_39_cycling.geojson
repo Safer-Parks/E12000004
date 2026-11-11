@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_39_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 207453138, "highway": "track", "name": "Slaynes Lane", "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9648198, 53.4448032 ], [ -0.9662014, 53.4443473 ], [ -0.9662968, 53.444289 ], [ -0.9671551, 53.4436686 ], [ -0.9672271, 53.4436318 ], [ -0.9686638, 53.4428967 ], [ -0.9709, 53.4417387 ], [ -0.9741718, 53.4400698 ], [ -0.9746493, 53.4398153 ], [ -0.9785333, 53.4378245 ], [ -0.9795772, 53.4372982 ], [ -0.9829302, 53.4355657 ], [ -0.9830359, 53.4355327 ], [ -0.9831549, 53.4355101 ], [ -0.9833305, 53.4355056 ], [ -0.983709, 53.4355141 ], [ -0.9842458, 53.4355025 ], [ -0.985029, 53.4354847 ], [ -0.9858073, 53.4354726 ], [ -0.9862086, 53.4354622 ], [ -0.9863673, 53.4354432 ], [ -0.986516, 53.4354117 ], [ -0.9866806, 53.435364 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 223296539, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9449899, 53.4518536 ], [ -0.9445217, 53.4519946 ], [ -0.9416624, 53.4534722 ] ] } }
+]
+}

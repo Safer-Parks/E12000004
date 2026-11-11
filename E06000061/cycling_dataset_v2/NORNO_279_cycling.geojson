@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_279_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 143260337, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5099327, 52.4108736 ], [ -0.5126697, 52.4137589 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 205991892, "highway": "track", "name": "Birds Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4962553, 52.4052235 ], [ -0.4962988, 52.4051415 ], [ -0.4964249, 52.4049402 ], [ -0.4964943, 52.404764 ], [ -0.4964798, 52.4046733 ], [ -0.4964313, 52.4044956 ], [ -0.4963804, 52.4041481 ], [ -0.4963716, 52.40395 ], [ -0.496272, 52.4037147 ], [ -0.4962408, 52.4035233 ], [ -0.4963232, 52.4030506 ], [ -0.4964179, 52.4026054 ], [ -0.4964559, 52.4024788 ], [ -0.4966763, 52.4018187 ], [ -0.4968165, 52.401399 ] ] } }
+]
+}

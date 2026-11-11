@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_112_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 914866682, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6094033, 53.2767268 ], [ -0.6109375, 53.278074 ], [ -0.6116778, 53.2788694 ], [ -0.6123537, 53.2798878 ], [ -0.6134065, 53.2816342 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 914866681, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6134065, 53.2816342 ], [ -0.6151766, 53.2845694 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_174_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 217876617, "highway": "bridleway", "name": "Stamford Old Lane", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3709014, 52.4602321 ], [ -0.3706814, 52.4600916 ], [ -0.3705097, 52.4597452 ], [ -0.370381, 52.4595752 ], [ -0.3693832, 52.4589934 ], [ -0.3681918, 52.4580167 ], [ -0.3674408, 52.4575394 ], [ -0.3672226, 52.457383 ], [ -0.3657778, 52.4563038 ], [ -0.3673984, 52.4544235 ], [ -0.363446, 52.4506055 ] ] } }
+]
+}

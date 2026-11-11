@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BASSE_92_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 916556418, "highway": "bridleway", "name": "Beckingham Lane", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8243828, 53.3078924 ], [ -0.8211154, 53.3073137 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 225252821, "highway": "track", "name": "Beckingham Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8243828, 53.3078924 ], [ -0.8262228, 53.308151 ], [ -0.8273439, 53.3084164 ], [ -0.8289603, 53.3084708 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 916556438, "highway": "bridleway", "name": "Humber Meadow Lane", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8057852, 53.318524 ], [ -0.8058345, 53.3184504 ], [ -0.8058838, 53.3166835 ], [ -0.8064507, 53.3157889 ], [ -0.8067034, 53.3141691 ], [ -0.8067403, 53.3136243 ], [ -0.8071625, 53.3126126 ], [ -0.8072189, 53.3123947 ], [ -0.8072001, 53.3121919 ] ] } }
+]
+}

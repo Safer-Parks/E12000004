@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORE5_13_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 44338367, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3822147, 53.1519149 ], [ -1.3824845, 53.1517566 ], [ -1.3829254, 53.1513501 ], [ -1.3834578, 53.1507833 ], [ -1.3845209, 53.1497717 ], [ -1.3851362, 53.1490609 ], [ -1.3855434, 53.1487532 ] ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HARBO_61_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 231464311, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9784512, 52.6588375 ], [ -0.9780127, 52.6589824 ], [ -0.9778353, 52.6590096 ], [ -0.977409, 52.6590003 ], [ -0.9771716, 52.6589851 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 299977038, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9771716, 52.6589851 ], [ -0.9768157, 52.659053 ], [ -0.9764756, 52.6591582 ], [ -0.9757889, 52.6594192 ], [ -0.9754787, 52.6595152 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 232551095, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9604599, 52.6603164 ], [ -0.9617759, 52.6601684 ], [ -0.9627254, 52.6602172 ], [ -0.9635837, 52.6603473 ], [ -0.9663518, 52.660009 ], [ -0.9684949, 52.6594452 ], [ -0.9691921, 52.6593908 ], [ -0.9699138, 52.6593786 ], [ -0.9704152, 52.6593363 ], [ -0.9709395, 52.6593371 ], [ -0.971586, 52.6593737 ], [ -0.9719925, 52.6593769 ], [ -0.9722956, 52.6593842 ], [ -0.9751184, 52.6595404 ], [ -0.9753035, 52.65954 ], [ -0.9754787, 52.6595152 ] ] } }
+]
+}

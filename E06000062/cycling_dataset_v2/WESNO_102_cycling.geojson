@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_102_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 39817345, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1545943, 52.0318138 ], [ -1.1544203, 52.0319658 ], [ -1.1542678, 52.0321021 ], [ -1.1541062, 52.032201 ], [ -1.1538354, 52.0324265 ], [ -1.1535621, 52.0327546 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1468582700, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1588766, 52.0282923 ], [ -1.1589442, 52.0283342 ], [ -1.1591254, 52.0284467 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1061430387, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1550914, 52.0374565 ], [ -1.1552394, 52.0376556 ], [ -1.1552651, 52.0376922 ], [ -1.155264, 52.0377345 ], [ -1.1552437, 52.0377635 ], [ -1.1552227, 52.0377797 ], [ -1.1551852, 52.0378021 ], [ -1.1551487, 52.0378173 ], [ -1.1551176, 52.0378328 ], [ -1.1550724, 52.0378692 ] ] } }
+]
+}

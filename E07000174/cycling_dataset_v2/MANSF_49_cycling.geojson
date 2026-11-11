@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MANSF_49_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 27216835, "highway": "track", "name": "Littlewood Lane", "category": "Track", "bicycle": null, "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1984485, 53.1753324 ], [ -1.1985049, 53.1753805 ], [ -1.1985459, 53.175417 ], [ -1.1991969, 53.1760128 ], [ -1.1993942, 53.176175 ], [ -1.1997801, 53.1764232 ], [ -1.1999117, 53.1764764 ], [ -1.2000993, 53.1765053 ], [ -1.2002492, 53.1765542 ], [ -1.2008689, 53.1769351 ], [ -1.20149, 53.1773672 ], [ -1.2021181, 53.1778539 ], [ -1.2030661, 53.1787819 ] ] } }
+]
+}

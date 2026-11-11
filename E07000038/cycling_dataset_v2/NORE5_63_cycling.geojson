@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORE5_63_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 230691113, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4825415, 53.2742551 ], [ -1.4821242, 53.2741765 ], [ -1.4817723, 53.2741149 ], [ -1.4807938, 53.2737608 ], [ -1.4805192, 53.2736633 ], [ -1.478897, 53.2736068 ], [ -1.4783474, 53.2736381 ], [ -1.4768478, 53.2738432 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 25722049, "highway": "bridleway", "name": "Gateland Lane", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4848451, 53.2754443 ], [ -1.4848503, 53.2755004 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 347938269, "highway": "bridleway", "name": "Gateland Lane", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4848503, 53.2755004 ], [ -1.4854764, 53.276133 ], [ -1.4854764, 53.2764013 ], [ -1.4856061, 53.2768743 ], [ -1.4857189, 53.27757 ], [ -1.4858649, 53.2782502 ], [ -1.4859556, 53.2785651 ], [ -1.4859828, 53.2789484 ], [ -1.4860155, 53.2795875 ], [ -1.4860131, 53.2796419 ], [ -1.486306, 53.2808075 ], [ -1.4865505, 53.2812175 ], [ -1.4868761, 53.2814856 ], [ -1.4872884, 53.2818397 ], [ -1.4875519, 53.2821606 ], [ -1.48767, 53.2823692 ], [ -1.4877245, 53.2825447 ], [ -1.4876442, 53.2828909 ] ] } }
+]
+}

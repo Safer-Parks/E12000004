@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MELTO_48_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 303969295, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "permissive", "access": "private", "foot": "permissive", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7644108, 52.8924433 ], [ -0.7647322, 52.8924299 ], [ -0.7650903, 52.8924322 ], [ -0.765916, 52.8924117 ], [ -0.7662217, 52.8924147 ], [ -0.7668167, 52.8924246 ], [ -0.7712149, 52.892656 ], [ -0.7718147, 52.8926594 ], [ -0.7721725, 52.8926481 ], [ -0.7725728, 52.892621 ], [ -0.7729065, 52.8926118 ], [ -0.7732261, 52.8926035 ], [ -0.77364, 52.892607 ], [ -0.7741241, 52.892633 ], [ -0.7747191, 52.8926816 ], [ -0.7750317, 52.8926982 ], [ -0.7751593, 52.8926743 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 67547697, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7994817, 52.8840898 ], [ -0.7986217, 52.8848843 ], [ -0.7981557, 52.8852909 ], [ -0.7979966, 52.8854287 ], [ -0.7978836, 52.8854986 ], [ -0.7976501, 52.885604 ], [ -0.7965973, 52.8860288 ], [ -0.7958583, 52.8862807 ], [ -0.7949911, 52.8865998 ], [ -0.7941424, 52.8868924 ], [ -0.7936382, 52.8870382 ], [ -0.7931258, 52.887163 ], [ -0.7923097, 52.8873019 ], [ -0.7912153, 52.8874055 ], [ -0.7903355, 52.8873796 ], [ -0.788961, 52.8873291 ] ] } }
+]
+}

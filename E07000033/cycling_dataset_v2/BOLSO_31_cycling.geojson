@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BOLSO_31_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 26660308, "highway": "track", "name": "Greer Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2690065, 53.1873602 ], [ -1.2690166, 53.1875751 ], [ -1.269013, 53.1880961 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 412249516, "highway": "bridleway", "name": "Greer Lane", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.269013, 53.1880961 ], [ -1.2689489, 53.1886427 ], [ -1.2689818, 53.1892346 ], [ -1.2692345, 53.1900542 ], [ -1.2692336, 53.1901563 ], [ -1.2691925, 53.1908836 ], [ -1.2690568, 53.1916816 ], [ -1.2689237, 53.1921077 ], [ -1.2686084, 53.1932984 ], [ -1.2682995, 53.1939949 ], [ -1.2681168, 53.1940835 ] ] } }
+]
+}

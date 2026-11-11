@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORE5_86_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 827302752, "highway": "bridleway", "name": "Sid Lane", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5361981, 53.2878778 ], [ -1.5356964, 53.2876725 ], [ -1.5355667, 53.2875152 ], [ -1.535582, 53.2872863 ], [ -1.5362296, 53.286122 ], [ -1.5365605, 53.2856341 ], [ -1.5366217, 53.2853861 ], [ -1.536599, 53.285142 ], [ -1.5365606, 53.2850169 ], [ -1.5365167, 53.2848922 ], [ -1.5363566, 53.284663 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 25742391, "highway": "bridleway", "name": "Grimsell Lane", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5276032, 53.2930214 ], [ -1.5275326, 53.2929516 ], [ -1.5273893, 53.2927043 ], [ -1.5272874, 53.2924212 ], [ -1.5273229, 53.2916287 ], [ -1.5273465, 53.2912738 ], [ -1.5271577, 53.2907801 ] ] } }
+]
+}

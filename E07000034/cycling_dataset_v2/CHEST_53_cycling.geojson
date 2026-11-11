@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHEST_53_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 26480105, "highway": "track", "name": "Brockwell Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4773276, 53.2567674 ], [ -1.4772995, 53.2566868 ], [ -1.4774504, 53.2565823 ], [ -1.4776326, 53.2564542 ], [ -1.4776947, 53.2563608 ], [ -1.4776663, 53.2563023 ], [ -1.4776511, 53.2562709 ], [ -1.4774992, 53.2561592 ], [ -1.4771595, 53.2559844 ], [ -1.4768338, 53.2558431 ], [ -1.4766735, 53.2557736 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 26480106, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4760756, 53.2555001 ], [ -1.4756478, 53.2552867 ], [ -1.4754262, 53.2551427 ], [ -1.4753356, 53.2550472 ], [ -1.4752161, 53.2549216 ], [ -1.4750848, 53.2548011 ], [ -1.4748644, 53.2546694 ], [ -1.4747133, 53.2546075 ], [ -1.4745041, 53.2545016 ], [ -1.4742573, 53.2543427 ], [ -1.4741614, 53.2542943 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 345564461, "highway": "track", "name": "Brockwell Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4766735, 53.2557736 ], [ -1.4760756, 53.2555001 ] ] } }
+]
+}

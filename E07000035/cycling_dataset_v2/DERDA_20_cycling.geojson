@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DERDA_20_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 35674409, "highway": "track", "name": "Back Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5704831, 53.1762891 ], [ -1.5701855, 53.1768921 ], [ -1.5701616, 53.1769333 ], [ -1.5697802, 53.1777001 ], [ -1.5694897, 53.1783079 ], [ -1.5694306, 53.1783945 ], [ -1.5692611, 53.1784466 ], [ -1.5686603, 53.1786213 ] ] } }
+]
+}
