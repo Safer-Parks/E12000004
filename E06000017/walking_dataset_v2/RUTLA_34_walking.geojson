@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "RUTLA_34_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 469801908, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6499828, 52.7211389 ], [ -0.6499409, 52.7208273 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 469255229, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6458359, 52.7294771 ], [ -0.6458468, 52.7294579 ], [ -0.6458628, 52.7294336 ], [ -0.645887, 52.7294124 ], [ -0.6466702, 52.7291184 ], [ -0.6474105, 52.7288423 ], [ -0.64744, 52.7288244 ], [ -0.6474671, 52.7288048 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 469739565, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6605424, 52.7245815 ], [ -0.6605047, 52.7246295 ], [ -0.6604566, 52.7246904 ], [ -0.6604269, 52.72474 ], [ -0.6604242, 52.7247822 ], [ -0.6604323, 52.7248131 ], [ -0.6604698, 52.7248391 ], [ -0.6605289, 52.7248537 ], [ -0.6605986, 52.7248521 ], [ -0.6606631, 52.7248382 ], [ -0.6607086, 52.7248066 ], [ -0.6607381, 52.7247741 ], [ -0.6607676, 52.72474 ], [ -0.6607944, 52.7246978 ], [ -0.6608078, 52.7246588 ], [ -0.6608132, 52.7246328 ], [ -0.660819, 52.7245993 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 469563069, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": "concrete" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.655492, 52.7254137 ], [ -0.655527, 52.7254691 ], [ -0.656058, 52.725638 ], [ -0.6561231, 52.7257351 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 469043208, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": "concrete" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6524742, 52.7299059 ], [ -0.6523077, 52.7300295 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WESNO_449_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 318235271, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": "designated", "access": null, "designatn": "public_footpath", "footway": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.889678, 52.3035721 ], [ -0.8872309, 52.302292 ], [ -0.8869341, 52.3021368 ], [ -0.8881143, 52.3011265 ], [ -0.8848312, 52.2991975 ], [ -0.8813766, 52.2974391 ], [ -0.8812478, 52.2977672 ], [ -0.8788442, 52.2974801 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 878838742, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": "designated", "access": null, "designatn": "public_footpath", "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9005887, 52.3087427 ], [ -0.9003984, 52.3087041 ], [ -0.8978664, 52.3076283 ], [ -0.8953912, 52.3069217 ], [ -0.8946563, 52.3067862 ] ] } }
+]
+}

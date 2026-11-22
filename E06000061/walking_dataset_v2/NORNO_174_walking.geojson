@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "NORNO_174_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 465123985, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3849354, 52.4647983 ], [ -0.3843688, 52.4643868 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 465128720, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3900603, 52.4466931 ], [ -0.3894328, 52.446911 ], [ -0.3893976, 52.4470677 ], [ -0.3891314, 52.4482549 ], [ -0.388307, 52.4482965 ], [ -0.3872012, 52.4482712 ], [ -0.3859138, 52.4482189 ], [ -0.3842401, 52.4481142 ], [ -0.3839182, 52.4481404 ], [ -0.3820299, 52.4496574 ], [ -0.3802489, 52.452809 ], [ -0.380285, 52.4529556 ], [ -0.3806659, 52.4537598 ], [ -0.3813686, 52.455123 ], [ -0.3814641, 52.4552114 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 217876617, "highway": "bridleway", "name": "Stamford Old Lane", "category": "Bridleway", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3709014, 52.4602321 ], [ -0.3706814, 52.4600916 ], [ -0.3705097, 52.4597452 ], [ -0.370381, 52.4595752 ], [ -0.3693832, 52.4589934 ], [ -0.3681918, 52.4580167 ], [ -0.3674408, 52.4575394 ], [ -0.3672226, 52.457383 ], [ -0.3657778, 52.4563038 ], [ -0.3673984, 52.4544235 ], [ -0.363446, 52.4506055 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 465123524, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3672226, 52.457383 ], [ -0.3664624, 52.4578465 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 465123984, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3846907, 52.4652889 ], [ -0.3844117, 52.4649228 ], [ -0.3840469, 52.464426 ] ] } }
+]
+}

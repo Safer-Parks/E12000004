@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WESLI_109_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 375714540, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5564698, 53.2835589 ], [ -0.5562602, 53.283626 ], [ -0.5560188, 53.2838056 ], [ -0.5558579, 53.283982 ], [ -0.555815, 53.2841712 ], [ -0.555536, 53.2846362 ], [ -0.5552505, 53.2852442 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1172310468, "highway": "path", "name": null, "category": "Shared path", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5518059, 53.2848383 ], [ -0.5521419, 53.2849341 ], [ -0.5525844, 53.2848975 ], [ -0.5525041, 53.2844483 ], [ -0.5534112, 53.2843972 ], [ -0.55363, 53.2852351 ], [ -0.5529868, 53.2857809 ], [ -0.5515414, 53.2859031 ], [ -0.5514875, 53.2859077 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 914866671, "highway": "path", "name": null, "category": "Shared path", "foot": "designated", "access": null, "designatn": "public_footpath", "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5764387, 53.2874577 ], [ -0.5752105, 53.2896645 ], [ -0.5739793, 53.2900124 ], [ -0.5736067, 53.2901025 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 914866670, "highway": "path", "name": null, "category": "Shared path", "foot": "designated", "access": null, "designatn": "public_footpath", "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5750003, 53.2870686 ], [ -0.5751997, 53.2880098 ], [ -0.5752105, 53.2896645 ], [ -0.575763, 53.2922202 ], [ -0.5748011, 53.2937441 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 375714553, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5688056, 53.2902872 ], [ -0.5686844, 53.2903284 ], [ -0.567204, 53.2908671 ], [ -0.5661015, 53.2908368 ], [ -0.5650745, 53.2908085 ] ] } }
+]
+}
